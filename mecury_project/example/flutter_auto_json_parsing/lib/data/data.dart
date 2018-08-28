@@ -12,6 +12,7 @@ class Data extends Object with _$DataSerializerMixin{
   final int time;
   final String title;
   final String type;
+  @JsonKey(nullable: false)
   final String url;
 
   Data({this.by, this.descendants, this.id, this.kids, this.score, this.time,

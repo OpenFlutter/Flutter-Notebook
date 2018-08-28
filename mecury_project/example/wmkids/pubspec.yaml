@@ -6,6 +6,8 @@ dependencies:
     sdk: flutter
   cupertino_icons: ^0.1.2
   json_annotation: ^0.2.3
+  pull_to_refresh: ^1.1.5
+  intl: ^0.15.7
 
 dev_dependencies:
   flutter_test:

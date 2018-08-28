@@ -1,5 +1,4 @@
-abstract class JsonString{
-
+abstract class JsonString {
   static final String mockdata = ''' {
   "by" : "dhouston",
   "descendants" : 71,
@@ -11,4 +10,26 @@ abstract class JsonString{
   "type" : "story",
   "url" : "http://www.getdropbox.com/u/2/screencast.html"
 }''';
+
+  static final String nulltestdata = '''
+  {
+  "hello":0
+  }
+  ''';
+
+  static final String nulltestdata2 = '''
+  {
+                "uuid": "283d10f832de427cad27f7552031b783",
+                "entityNo": null,
+                "createTime": "2018-07-09 08:04:33",
+                "salesManId": null,
+                "areaId": null,
+                "name": "干锅类",
+                "image": null,
+                "state": true,
+                "vendorUuid": "ad7dc50c662f4118a502ac123773c022",
+                "position": 2,
+                "type": 1
+            }
+  ''';
 }
