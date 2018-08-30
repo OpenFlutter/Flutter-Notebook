@@ -1,5 +1,9 @@
 import 'package:flutter/material.dart';
 
+/*
+* 基础动画
+* */
+
 class HomeScreen extends StatefulWidget {
   @override
   State createState() => HomeScreenState();

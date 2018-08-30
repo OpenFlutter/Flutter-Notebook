@@ -1,5 +1,9 @@
 import 'package:flutter/material.dart';
 
+/*
+* 父子动画，动画中的子动画，父动画是按照X轴平移，子动画是上面的方块大小逐渐增大
+* */
+
 class HomeScreen extends StatefulWidget {
   @override
   HomeScreenState createState() => HomeScreenState();

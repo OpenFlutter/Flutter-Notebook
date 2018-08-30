@@ -1,5 +1,9 @@
 import 'package:flutter/material.dart';
 
+/*
+* 从正方形逐渐变成圆形的动画
+* */
+
 class HomeScreen extends StatefulWidget {
   @override
   _HomeScreenState createState() => _HomeScreenState();
