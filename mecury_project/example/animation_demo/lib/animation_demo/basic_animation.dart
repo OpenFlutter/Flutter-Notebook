@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 
-class LoginScreen extends StatefulWidget {
+class HomeScreen extends StatefulWidget {
   @override
-  State createState() => LoginScreenState();
+  State createState() => HomeScreenState();
 }
 
-class LoginScreenState extends State<LoginScreen>
+class HomeScreenState extends State<HomeScreen>
     with SingleTickerProviderStateMixin {
   TextEditingController _nameController,_pwController;
 

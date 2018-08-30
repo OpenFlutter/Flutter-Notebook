@@ -1,23 +1,23 @@
 import 'package:flutter/material.dart';
 
-class LoginScreen extends StatefulWidget {
+class HomeScreen extends StatefulWidget {
   @override
-  State createState() => LoginScreenState();
+  State createState() => HomeScreenState();
 }
 
-class LoginScreenState extends State<LoginScreen>
+class HomeScreenState extends State<HomeScreen>
     with SingleTickerProviderStateMixin {
-  TextEditingController _nameController,_pwController;
+  TextEditingController _nameController, _pwController;
 
-  Animation _animationTitle,_animationTextField,_animationButton;
+  Animation _animationTitle, _animationTextField, _animationButton;
   AnimationController _animationController;
 
   @override
   void initState() {
     _nameController = TextEditingController();
     _pwController = TextEditingController();
-    _animationController =
-        AnimationController(vsync: this, duration: Duration(seconds: 2,milliseconds: 50));
+    _animationController = AnimationController(
+        vsync: this, duration: Duration(seconds: 2, milliseconds: 50));
     _animationTitle = Tween(begin: -1.0, end: 0.0).animate(CurvedAnimation(
         parent: _animationController, curve: Curves.fastOutSlowIn));
     _animationTextField = Tween(begin: -1.0, end: 0.0).animate(CurvedAnimation(
@@ -27,6 +27,7 @@ class LoginScreenState extends State<LoginScreen>
         parent: _animationController,
         curve: Interval(0.6, 1.0, curve: Curves.fastOutSlowIn)));
     _animationController.forward();
+//    _animationController.repeat();
     super.initState();
   }
 
