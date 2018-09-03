@@ -1,6 +1,7 @@
 # flutter动画Demo，其中包含以下类型动画：
 
 - 基础动画：basic_animation_demo.dart
+![](https://user-gold-cdn.xitu.io/2018/9/4/165a02b62048a355?w=246&h=498&f=gif&s=64464)
 - 延迟动画：delayed_animation_demo.dart
 - 父子动画：parent_animation_demo.dart
 - 转换动画： transforming_animation_demo.dart
