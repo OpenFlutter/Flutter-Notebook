@@ -13,7 +13,7 @@ main函数中，import的是当前动画样例，其他被注释起来了，只�
 
 
 ![](https://user-gold-cdn.xitu.io/2018/9/4/165a02b62048a355?w=246&h=498&f=gif&s=64464)
-![](https://user-gold-cdn.xitu.io/2018/9/4/165a02dd918ef53b?w=246&h=498&f=gif&s=483
+![](https://user-gold-cdn.xitu.io/2018/9/4/165a035681c0978c?w=246&h=498&f=gif&s=48394)
 ![](https://user-gold-cdn.xitu.io/2018/9/4/165a02eed2d89b3b?w=246&h=498&f=gif&s=42006)
 ![](https://user-gold-cdn.xitu.io/2018/9/4/165a03082955a07f?w=246&h=498&f=gif&s=42967)
 ![](https://user-gold-cdn.xitu.io/2018/9/4/165a031c9a65f0c9?w=246&h=498&f=gif&s=64208)
