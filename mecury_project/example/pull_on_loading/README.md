@@ -4,6 +4,7 @@
 main.dart切换注释的导入即可。
 
 ![](https://user-gold-cdn.xitu.io/2018/9/7/165b34ca822a8f54?w=362&h=642&f=gif&s=4669741)
+![](https://user-gold-cdn.xitu.io/2018/9/7/165b3542f724d46a?w=362&h=642&f=gif&s=3373834)
 
 ## Getting Started
 
