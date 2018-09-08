@@ -1,3 +1,6 @@
+/**
+ * 实现原理是在ListView外套一层RefreshIndicator，并在onRefresh: ()方法中重新注入新数据
+ */
 import 'package:flutter/material.dart';
 
 import 'package:http/http.dart' as http;

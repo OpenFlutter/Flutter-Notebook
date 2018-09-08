@@ -1,3 +1,6 @@
+/**
+ * 实现原理是，利用ScrollController监听像素是否到达底部，再注入新数据
+ */
 import 'package:flutter/material.dart';
 
 import 'package:http/http.dart' as http;
