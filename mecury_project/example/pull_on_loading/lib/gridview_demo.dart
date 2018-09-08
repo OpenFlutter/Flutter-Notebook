@@ -11,12 +11,12 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePageState extends State<MyHomePage> {
   ScrollController _controller;
-  List<Widget> gridViewItems;
+  List<String> images;
 
   @override
   void initState() {
     super.initState();
-    gridViewItems = List<Widget>();
+    images = List();
     _controller = ScrollController();
     fetchTen();
     _controller.addListener(() {
@@ -41,13 +41,20 @@ class _MyHomePageState extends State<MyHomePage> {
       body: RefreshIndicator(
         onRefresh: () async {
           await new Future.delayed(const Duration(seconds: 1));
-          gridViewItems.clear();
+          images.clear();
           fetchTen();
         },
-        child: GridView.extent(
-          maxCrossAxisExtent: 150.0,
+        child: GridView.builder(
+          gridDelegate: new SliverGridDelegateWithFixedCrossAxisCount(
+              crossAxisCount: 2,
+              mainAxisSpacing: 10.0,
+              crossAxisSpacing: 10.0,
+              childAspectRatio: 1.0),
           controller: _controller,
-          children: gridViewItems,
+          itemCount: images.length,
+          itemBuilder: (BuildContext context, int index){
+            return _buildItem(images[index]);
+          },
         ),
       ),
     );
@@ -67,7 +74,7 @@ class _MyHomePageState extends State<MyHomePage> {
     final response = await http.get('http://dog.ceo/api/breeds/image/random');
     if (response.statusCode == 200) {
       setState(() {
-        gridViewItems.add(_buildItem(json.decode(response.body)['message'],));
+        images.add(json.decode(response.body)['message'],);
       });
     } else {
       throw Exception('Failed to load images');
