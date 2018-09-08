@@ -11,7 +11,7 @@ class MainApp extends StatefulWidget {
 
 class MainAppState extends State<MainApp> {
 
-  List<Widget> pages = List<Widget>();
+  final List<Widget> pages = List<Widget>();
   final _bottomNavigationBarItemColor = Colors.teal;
   int _bottomNavigationIndex = 0;
 
