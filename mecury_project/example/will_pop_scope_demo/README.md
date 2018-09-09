@@ -1,6 +1,8 @@
 # will_pop_scope_demo
 
-A new Flutter application.
+检测页面是否被弹出的demo。
+收录于MTechViral的youtube视频https://www.youtube.com/watch?v=fYBCzgBRkb4&list=PLR2qQy0Zxs_Wot7YfLeeKdMlJ9838C_w0&index=2
+![](https://user-gold-cdn.xitu.io/2018/9/9/165bd164ce03a359?w=362&h=642&f=gif&s=549629)
 
 ## Getting Started
 
