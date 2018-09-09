@@ -5,6 +5,7 @@
 
 ## 样例
 ![](https://user-gold-cdn.xitu.io/2018/9/9/165bd164ce03a359?w=362&h=642&f=gif&s=549629)
+![](https://user-gold-cdn.xitu.io/2018/9/9/165bddae47c84b18?w=362&h=642&f=gif&s=486901)
 
 ## Getting Started
 
