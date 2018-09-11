@@ -3,6 +3,7 @@
 ## flutter_note_book有什么
 flutetr_note_book有许多flutter相关功能demo的集合。
 **目前包含以下demo：**
+
 - 导航提示页的demo
 - 动画demo
 - 使用BLoC分离UILogic与BusinessLogic的demo
@@ -28,6 +29,7 @@ flutetr_note_book有许多flutter相关功能demo的集合。
 ![](https://user-gold-cdn.xitu.io/2018/9/9/165ba4afd401fc53?w=362&h=642&f=gif&s=3125329)
 ![](https://user-gold-cdn.xitu.io/2018/9/9/165bd164ce03a359?w=362&h=642&f=gif&s=549629)
 ![](https://user-gold-cdn.xitu.io/2018/9/9/165bddae47c84b18?w=362&h=642&f=gif&s=486901)
+![](https://user-gold-cdn.xitu.io/2018/9/11/165c864da39b5296?w=362&h=640&f=gif&s=270132)
 
 
 样例代码请到mecury_project/example里查看
