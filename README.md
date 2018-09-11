@@ -15,7 +15,7 @@ flutetr_note_book有许多flutter相关功能demo的集合。目前保持日更�
 #### 更多请进入mecury_project/example中寻找。
 
 所有demo都最简化，尽量保证只与当前功能有关。每个demo文件代码在100行左右，十分适合新手阅读。
-
+## 样例
 ![](https://user-gold-cdn.xitu.io/2018/9/10/165c24b154c98218?w=362&h=642&f=gif&s=739273)
 ![](https://user-gold-cdn.xitu.io/2018/9/10/165c24b3adbbd5aa?w=362&h=640&f=gif&s=121427)
 ![](https://user-gold-cdn.xitu.io/2018/9/10/165c24b7bbd01af7?w=362&h=640&f=gif&s=61838)
@@ -32,7 +32,7 @@ flutetr_note_book有许多flutter相关功能demo的集合。目前保持日更�
 ![](https://user-gold-cdn.xitu.io/2018/9/11/165c864da39b5296?w=362&h=640&f=gif&s=270132)
 
 
-样例代码请到mecury_project/example里查看
+**样例代码请到mecury_project/example里查看**
 
 ## 我的掘金主页
 https://juejin.im/user/5b5d45f4e51d453526175c06/posts
