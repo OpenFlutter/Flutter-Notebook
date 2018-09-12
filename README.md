@@ -9,12 +9,13 @@ flutetr_note_book有许多flutter相关功能demo的集合。目前保持日更�
 - 动画demo
 - 使用BLoC分离UILogic与BusinessLogic的demo
 - json自动反序列化demo
-- 底部导航demo
+- 使用BottomNavigationBar进行底部导航demo
 - 上拉加载，下拉刷新demo
 - 屏幕pop时弹出提示信息的demo
 - 在应用内共享状态的demo
 - SliverAppBar+TabBar的demo
 - 在切换页面时，保存页面状态不被回收的demo
+- 使用BottomAppBar进行底部导航的demo
 #### 更多请进入mecury_project/example中寻找。
 
 所有demo都最简化，尽量保证只与当前功能有关。每个demo文件代码在100行左右，十分适合新手阅读。
@@ -36,6 +37,7 @@ flutetr_note_book有许多flutter相关功能demo的集合。目前保持日更�
 ![](https://user-gold-cdn.xitu.io/2018/9/12/165cd5463f99cb2b?w=362&h=640&f=gif&s=627463)
 ![](https://user-gold-cdn.xitu.io/2018/9/12/165cd548a72028b3?w=362&h=640&f=gif&s=2268394)
 ![](https://user-gold-cdn.xitu.io/2018/9/12/165cd82770ff732e?w=362&h=640&f=gif&s=445737)
+![](https://user-gold-cdn.xitu.io/2018/9/13/165cece8f2ad7e58?w=362&h=640&f=gif&s=158087)
 
 
 **样例代码请到mecury_project/example里查看**
