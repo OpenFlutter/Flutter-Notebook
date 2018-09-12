@@ -32,6 +32,12 @@ class _KeepAliveDemoState extends State<KeepAliveDemo> with SingleTickerProvider
     super.initState();
     _controller = TabController(length: 3, vsync: this);
   }
+
+  @override
+  void dispose() {
+    _controller.dispose();
+    super.dispose();
+  }
   @override
   Widget build(BuildContext context) {
     return Scaffold(
