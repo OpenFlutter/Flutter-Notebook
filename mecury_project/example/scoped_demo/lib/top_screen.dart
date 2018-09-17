@@ -10,6 +10,19 @@ class TopScreen extends StatefulWidget {
 
 class _TopScreenState extends State<TopScreen> {
 
+  //静态获取model用法实例
+  Model getModel(BuildContext context){
+    //直接使用of
+    final countModel = ScopedModel.of<CountModel>(context);
+    //使用CountModel中重写的of
+    final countModel2 = CountModel().of(context);
+
+    countModel.increment();
+    countModel2.increment();
+    return countModel;
+    //    return countMode2;
+  }
+
   @override
   Widget build(BuildContext context) {
     return ScopedModelDescendant<CountModel>(
@@ -35,6 +48,6 @@ class _TopScreenState extends State<TopScreen> {
         );
       },
     );
-
   }
+
 }

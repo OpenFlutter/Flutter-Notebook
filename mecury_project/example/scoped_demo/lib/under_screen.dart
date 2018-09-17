@@ -34,15 +34,13 @@ class _UnderScreenState extends State<UnderScreen> {
           ),
         ),
         floatingActionButton: new FloatingActionButton(
-          onPressed: () {
-            setState(() {
-              model.increment();
-            });
-          },
+          onPressed: () => model.increment(),
           tooltip: 'Increment',
           child: new Icon(Icons.add),
         ), // This trailing comma makes auto-formatting nicer for build methods.
       );
-    });
+    },
+//    rebuildOnChange: false,
+    );
   }
 }
