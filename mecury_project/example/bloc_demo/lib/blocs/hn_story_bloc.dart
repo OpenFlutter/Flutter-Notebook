@@ -22,9 +22,14 @@ class StoryBloc {
     _updateStorys(_storyIds);
   }
 
+  refresh(){
+    _updateStorys(_storyIds);
+  }
+
   Future<Story> _getStory(int id) async {
     final storyUrl = 'https://hacker-news.firebaseio.com/v0/item/$id.json';
     final storyRes = await http.get(storyUrl);
+    print("getStory"+storyRes.toString());
     if (storyRes.statusCode == 200) {
       return _parseStory(storyRes.body);
     }

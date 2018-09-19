@@ -10,7 +10,7 @@ void main() {
     test("json deserialization", (){
       Story story = Story.fromJson(json.decode(mockstory));
       expect(story.url, "http://www.getdropbox.com/u/2/screencast.html");
-//      print(story);
+      print(story);
     });
   });
 }

@@ -1,5 +1,6 @@
-import 'dart:async';
+import 'dart:collection';
 
+import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:bloc_demo/model/hacker_news.dart';
 import 'package:bloc_demo/blocs/hn_story_bloc.dart';
@@ -25,14 +26,20 @@ class _MyHomePageState extends State<MyHomePage> {
       appBar: AppBar(
         leading: LoadingInfo(storyBloc.isLoading),
       ),
-      body: StreamBuilder(
-        stream: storyBloc.stories,
-        initialData: <List<Story>>[],
-        builder: (context, snapshot) {
-          return ListView(
-              children: _buildList(snapshot.data)
-          );
-        },
+      body: RefreshIndicator(
+        onRefresh: ()async{
+          await Future.delayed(Duration(seconds: 2));
+          storyBloc.refresh();
+          },
+        child: StreamBuilder<UnmodifiableListView<Story>>(
+          stream: storyBloc.stories,
+          initialData: UnmodifiableListView<Story>([]),
+          builder: (context, snapshot) {
+            return ListView(
+                children: _buildList(snapshot.data)
+            );
+          },
+        ),
       ),
     );
   }
