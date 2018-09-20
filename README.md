@@ -19,6 +19,7 @@ flutetr_note_book有许多flutter相关功能demo的集合。目前保持日更�
 - [使用url_launcher唤醒其他功能的demo](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/url_launcher_demo)
 - [使用hero动画让小部件从一个页面飞到另一个页面的demo](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/hero_demo)
 - [应用开启进入闪屏页的demo](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/splash_screen_demo)
+- [右滑返回demo](https://github.com/Vadaski/Flutter-Notebook/tree/master/mecury_project/example/right_back_demo)
 
 #### 更多请进入mecury_project/example中寻找。
 
@@ -45,6 +46,7 @@ flutetr_note_book有许多flutter相关功能demo的集合。目前保持日更�
 ![](https://user-gold-cdn.xitu.io/2018/9/18/165ec5d3b3ef7b73?w=362&h=640&f=gif&s=503021)
 ![](https://user-gold-cdn.xitu.io/2018/9/18/165ec5dac1810db3?w=362&h=640&f=gif&s=1824992)
 ![](https://user-gold-cdn.xitu.io/2018/9/19/165f1adf1c7d81de?w=362&h=640&f=gif&s=3018323)
+![](https://user-gold-cdn.xitu.io/2018/9/20/165f533bf04bf291?w=362&h=640&f=gif&s=203698)
 
 **样例代码请到mecury_project/example里查看**
 
