@@ -8,7 +8,7 @@ flutetr_note_book有许多flutter相关功能demo的集合。目前保持日更�
 - [导航提示页的demo](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/slider_screen)
 - [使用bottomNavigationBar进行底部导航的demo](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/flutter_bottomnavigationbar)
 - [动画demo](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/animation_demo)
-- [使用BLoC分离UILogic与BusinessLogic的demo](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/bloc_demo)【修复中】
+- [使用BLoC分离UILogic与BusinessLogic的demo](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/bloc_demo)
 - [上拉加载，下拉刷新demo](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/pull_on_loading)
 - [json自动反序列化demo](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/flutter_auto_json_parsing)
 - [屏幕pop时弹出提示信息的demo](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/will_pop_scope_demo)
