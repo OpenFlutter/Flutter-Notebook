@@ -1,4 +1,5 @@
 import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
 
 class NavigationBarDemo extends StatefulWidget {
   @override
@@ -6,6 +7,15 @@ class NavigationBarDemo extends StatefulWidget {
 }
 
 class _NavigationBarDemoState extends State<NavigationBarDemo> {
+  TextEditingController _controller;
+
+  @override
+  void initState() {
+    // TODO: implement initState
+    super.initState();
+    _controller = TextEditingController();
+  }
+
   @override
   Widget build(BuildContext context) {
     return CupertinoPageScaffold(
@@ -15,7 +25,8 @@ class _NavigationBarDemoState extends State<NavigationBarDemo> {
           middle: Text('middle'),
           trailing: Icon(CupertinoIcons.search),
         ),
-        child: Container());
+        child: Container(
+        ));
   }
 
 //  CupertinoTabBar(

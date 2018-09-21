@@ -242,6 +242,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.0.0+1"
+  random_pk:
+    dependency: "direct main"
+    description:
+      name: random_pk
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.0.3"
   shelf:
     dependency: transitive
     description:
