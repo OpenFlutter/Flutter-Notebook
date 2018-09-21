@@ -48,6 +48,11 @@ flutetr_note_book有许多flutter相关功能demo的集合。目前保持日更�
 ![](https://user-gold-cdn.xitu.io/2018/9/18/165ec5dac1810db3?w=362&h=640&f=gif&s=1824992)
 ![](https://user-gold-cdn.xitu.io/2018/9/19/165f1adf1c7d81de?w=362&h=640&f=gif&s=3018323)
 ![](https://user-gold-cdn.xitu.io/2018/9/20/165f533bf04bf291?w=362&h=640&f=gif&s=203698)
+![](https://user-gold-cdn.xitu.io/2018/9/21/165f7d7c790e6911?w=362&h=640&f=gif&s=172340)
+![](https://user-gold-cdn.xitu.io/2018/9/22/165fd35c8909a813?w=362&h=640&f=gif&s=1992085)
+![](https://user-gold-cdn.xitu.io/2018/9/22/165fd35f0d320ac1?w=362&h=640&f=gif&s=107991)
+![](https://user-gold-cdn.xitu.io/2018/9/21/165fab436c967dc5?w=362&h=640&f=gif&s=243539)
+![](https://user-gold-cdn.xitu.io/2018/9/21/165fab48becac4ad?w=362&h=640&f=gif&s=328637)
 
 **样例代码请到mecury_project/example里查看**
 
