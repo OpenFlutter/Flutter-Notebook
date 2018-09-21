@@ -9,8 +9,8 @@ GDD2018新发布的Flutter preview2 widget体验
 另外有一个个人的想法：既然flutter能够提供丰富的cupertino风格组件库，而平时对用户来说ios的体验反馈又一直不错，以后flutter应用会不会有向ios风格靠近的趋势呢。毕竟技术成本已经被填上了，剩下的可能会交给用户去做选择吧。
 ## 样例
 ![](https://user-gold-cdn.xitu.io/2018/9/21/165f7d7c790e6911?w=362&h=640&f=gif&s=172340)
-![](https://user-gold-cdn.xitu.io/2018/9/21/165f7d7f34ad95ce?w=362&h=640&f=gif&s=82794)
-![](https://user-gold-cdn.xitu.io/2018/9/21/165f7d817621c969?w=362&h=640&f=gif&s=115222)
+![](https://user-gold-cdn.xitu.io/2018/9/22/165fd35c8909a813?w=362&h=640&f=gif&s=1992085)
+![](https://user-gold-cdn.xitu.io/2018/9/22/165fd35f0d320ac1?w=362&h=640&f=gif&s=107991)
 ![](https://user-gold-cdn.xitu.io/2018/9/21/165f7d82c7a6c8e1?w=360&h=643&f=png&s=12551)
 ![](https://user-gold-cdn.xitu.io/2018/9/21/165fab436c967dc5?w=362&h=640&f=gif&s=243539)
 ![](https://user-gold-cdn.xitu.io/2018/9/21/165fab44f4e99390?w=362&h=640&f=gif&s=320930)
