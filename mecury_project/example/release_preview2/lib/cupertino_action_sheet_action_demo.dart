@@ -13,6 +13,28 @@ class _ActionSheetActionDemoState extends State<ActionSheetActionDemo> {
     super.initState();
     _controller = ScrollController();
   }
+
+  Widget buildCupertinoActionSheet(BuildContext context) {
+    return CupertinoActionSheet(
+      title: Text(
+        'Provide a Cancel button',
+        style: TextStyle(fontSize: 24.0),
+      ),
+      message: Text(
+          'A Cancel button instills confidence when the user is abandoning a task. Cancel buttons should always be included in action sheets at the bottom of the screen.'),
+      actions: <Widget>[
+        CupertinoActionSheetAction(
+            onPressed: () {}, child: Text('Close This Tab')),
+        CupertinoActionSheetAction(
+            onPressed: () {}, child: Text('New Private Tab')),
+        CupertinoActionSheetAction(onPressed: () {}, child: Text('New Tab')),
+      ],
+//            messageScrollController: _controller,
+      actionScrollController: _controller,
+      cancelButton: CupertinoButton(child: Text('Cancel'), onPressed: null),
+    );
+  }
+
   @override
   Widget build(BuildContext context) {
     final double width = MediaQuery.of(context).size.width;
@@ -29,19 +51,15 @@ class _ActionSheetActionDemoState extends State<ActionSheetActionDemo> {
           ),
         ),
         Center(
-          child: CupertinoActionSheet(
-            title: Text('Provide a Cancel button',style: TextStyle(fontSize: 24.0),),
-            message: Text('A Cancel button instills confidence when the user is abandoning a task. Cancel buttons should always be included in action sheets at the bottom of the screen.'),
-            actions: <Widget>[
-                CupertinoActionSheetAction(onPressed: (){}, child: Text('Close This Tab')),
-                CupertinoActionSheetAction(onPressed: (){}, child: Text('New Private Tab')),
-                CupertinoActionSheetAction(onPressed: (){}, child: Text('New Tab')),
-            ],
-//            messageScrollController: _controller,
-            actionScrollController: _controller,
-            cancelButton: CupertinoButton(child: Text('Cancel'), onPressed: null),
-          ),
-        )
+            child: CupertinoButton(
+                child: Text('CupertinoActionSheet'),
+                onPressed: () {
+                  showCupertinoModalPopup(
+                      context: context,
+                      builder: (BuildContext context) {
+                        buildCupertinoActionSheet(context);
+                      });
+                }))
       ],
     ));
   }

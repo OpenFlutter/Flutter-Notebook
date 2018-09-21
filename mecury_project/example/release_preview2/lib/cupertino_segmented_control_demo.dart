@@ -7,6 +7,7 @@ class SegmentedControlDemo extends StatefulWidget {
 
 class _SegmentedControlDemoState extends State<SegmentedControlDemo> {
   Map<String,Widget> selectMap;
+  String _select;
 
   @override
   void initState() {
@@ -16,6 +17,7 @@ class _SegmentedControlDemoState extends State<SegmentedControlDemo> {
   selectMap["map"] = Text('Map');
   selectMap["transit"] = Text('Transit');
   selectMap['satellite'] = Text('Satellite');
+//  _select = "";
   }
 
   @override
@@ -29,8 +31,11 @@ class _SegmentedControlDemoState extends State<SegmentedControlDemo> {
             height: height/4,
             child: CupertinoSegmentedControl(
                 children: selectMap,
-                onValueChanged: (key){
-
+                groupValue: _select,
+                onValueChanged: (String key){
+                  setState(() {
+                    _select = key;
+                  });
                 }),
           ),
         ));
