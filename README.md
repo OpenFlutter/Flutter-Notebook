@@ -20,6 +20,7 @@ flutetr_note_book有许多flutter相关功能demo的集合。目前保持日更�
 - [使用hero动画让小部件从一个页面飞到另一个页面的demo](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/hero_demo)
 - [应用开启进入闪屏页的demo](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/splash_screen_demo)
 - [右滑返回demo](https://github.com/Vadaski/Flutter-Notebook/tree/master/mecury_project/example/right_back_demo)
+- [GDD2018最新Flutter preview2 widget体验](https://github.com/Vadaski/Flutter-Notebook/tree/master/mecury_project/example/release_preview2)
 
 #### 更多请进入mecury_project/example中寻找。
 
