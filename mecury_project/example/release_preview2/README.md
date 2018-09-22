@@ -7,6 +7,8 @@ GDD2018新发布的Flutter preview2 widget体验
 从体验上来讲，我认为流畅度以及风格已经与ios原生极为接近，如果不是下面有安卓底部的虚拟键，或许真的就和iphone体验一样了。
 
 另外有一个个人的想法：既然flutter能够提供丰富的cupertino风格组件库，而平时对用户来说ios的体验反馈又一直不错，以后flutter应用会不会有向ios风格靠近的趋势呢。毕竟技术成本已经被填上了，剩下的可能会交给用户去做选择吧。
+
+最后，感谢彦博为这个demo提出非常棒的建议，segment control与action sheet已经改为较为合理的使用方式。
 ## 样例
 ![](https://user-gold-cdn.xitu.io/2018/9/21/165f7d7c790e6911?w=362&h=640&f=gif&s=172340)
 ![](https://user-gold-cdn.xitu.io/2018/9/22/165fd35c8909a813?w=362&h=640&f=gif&s=1992085)
