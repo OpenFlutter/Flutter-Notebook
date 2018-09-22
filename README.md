@@ -3,25 +3,29 @@
 ## flutter_notebook有什么
 flutetr_note_book有许多flutter相关功能demo的集合。目前保持日更一个demo的速度，喜欢的话可以Watch该项目，之后更新会自动通知您。
 
-**目前包含以下demo：**
-
+## 目前包含以下demo：
+### 功能
 - [导航提示页的demo](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/slider_screen)
-- [使用bottomNavigationBar进行底部导航的demo](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/flutter_bottomnavigationbar)
-- [动画demo](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/animation_demo)
-- [使用BLoC分离UILogic与BusinessLogic的demo](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/bloc_demo)
 - [上拉加载，下拉刷新demo](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/pull_on_loading)
 - [json自动反序列化demo](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/flutter_auto_json_parsing)
 - [屏幕pop时弹出提示信息的demo](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/will_pop_scope_demo)
-- [使用scoped_model在应用内共享状态的demo](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/scoped_demo)
-- [SliverAppBar+TabBar的demo](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/sliver_demo)
 - [在切换页面时，保存页面状态不被回收的demo](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/keep_alive_demo)
-- [使用BottomAppBar进行底部导航的demo](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/bottom_appbar_demo)
 - [使用url_launcher唤醒其他功能的demo](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/url_launcher_demo)
-- [使用hero动画让小部件从一个页面飞到另一个页面的demo](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/hero_demo)
 - [应用开启进入闪屏页的demo](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/splash_screen_demo)
 - [右滑返回demo](https://github.com/Vadaski/Flutter-Notebook/tree/master/mecury_project/example/right_back_demo)
+### 状态管理
+- [使用BLoC分离UILogic与BusinessLogic的demo](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/bloc_demo)
+- [使用scoped_model在应用内共享状态的demo](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/scoped_demo)
+- [使用redux共享应用状态的demo](https://github.com/Vadaski/Flutter-Notebook/tree/master/mecury_project/example/redux_demo)
+### 动画
+- [动画demo](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/animation_demo)
+- [使用hero动画让小部件从一个页面飞到另一个页面的demo](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/hero_demo)
+### 视图
+- [使用bottomNavigationBar进行底部导航的demo](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/flutter_bottomnavigationbar)
+- [使用BottomAppBar进行底部导航的demo](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/bottom_appbar_demo)
+- [SliverAppBar+TabBar的demo](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/sliver_demo)
+### 其他
 - [GDD2018最新Flutter preview2 widget体验](https://github.com/Vadaski/Flutter-Notebook/tree/master/mecury_project/example/release_preview2)
-
 #### 更多请进入mecury_project/example中寻找。
 
 所有demo都最简化，尽量保证只与当前功能有关。每个demo文件代码在100行左右，十分适合新手阅读。
