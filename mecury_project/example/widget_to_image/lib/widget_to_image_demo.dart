@@ -4,9 +4,13 @@
  * 然后我们将实现一个_capturePng()方法，
  * 首先让 RenderRepaintBoundary 对象通过 GlobalKey 获取 RepaintBoundary Widget 的子树的RenderObject
  * 然后我们可以使用 RenderRepaintBoundary的toImage 方法将其转化为 Image
- * 要使用toImage，渲染对象必须经历绘制阶段（即debugNeedsPaint必须为false）。所以第一次会先绘制一遍。
+ * 要使用toImage，渲染对象必须经历绘制阶段（即debugNeedsPaint必须为false）。
+ * 所以当我们当前页面还未加载完毕的时候，是无法进行截图的。
  * 获取原始图像数据后，我们将其转换为ByteData,然后再将ByteData转化为Uint8List
  * 之后我们只需要使用Image.memory(Uint8List)就能显示获得的图像了
+ *
+ * 由于我们拿到的是当前页面widget产生的renderObject，所以生成的图片也只有当前页面
+ * 需要更好的理解这句话请查看another_demo
  */
 import 'dart:async';
 import 'dart:convert';
@@ -42,6 +46,7 @@ class _WidgetToImageState extends State<WidgetToImage> {
     } catch (e) {
       print(e);
     }
+    return null;
   }
 
 
