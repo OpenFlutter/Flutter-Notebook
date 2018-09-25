@@ -11,10 +11,11 @@ flutetr_note_book有许多flutter相关功能demo的集合。目前保持日更�
 - [在切换页面时，保存页面状态不被回收的demo](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/keep_alive_demo)
 - [使用url_launcher唤醒其他功能的demo](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/url_launcher_demo)
 - [应用开启进入闪屏页的demo](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/splash_screen_demo)
-- [右滑返回demo](https://github.com/Vadaski/Flutter-Notebook/tree/master/mecury_project/example/right_back_demo)
-- [左滑删除demo](https://github.com/Vadaski/Flutter-Notebook/blob/master/mecury_project/example/swipe_to_dismiss)
+- [右滑返回上一页demo](https://github.com/Vadaski/Flutter-Notebook/tree/master/mecury_project/example/right_back_demo)
+- [左滑删除ListView中Item的demo](https://github.com/Vadaski/Flutter-Notebook/blob/master/mecury_project/example/swipe_to_dismiss)
 - [从本地选取多张图片的demo](https://github.com/Vadaski/Flutter-Notebook/blob/master/mecury_project/example/load_multi_image)
 - [制作一个精美的Material风格搜索框](https://github.com/Vadaski/Flutter-Notebook/tree/master/mecury_project/example/beaytiful_search_bar_demo)
+- [在flutter中截屏](https://github.com/Vadaski/Flutter-Notebook/tree/master/mecury_project/example/widget_to_image)
 ### 状态管理
 - [使用BLoC分离UILogic与BusinessLogic的demo](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/bloc_demo)
 - [使用scoped_model在应用内共享状态的demo](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/scoped_demo)
@@ -60,7 +61,7 @@ flutetr_note_book有许多flutter相关功能demo的集合。目前保持日更�
 ![](https://user-gold-cdn.xitu.io/2018/9/21/165fab436c967dc5?w=362&h=640&f=gif&s=243539)
 ![](https://user-gold-cdn.xitu.io/2018/9/21/165fab48becac4ad?w=362&h=640&f=gif&s=328637)
 ![](https://user-gold-cdn.xitu.io/2018/9/22/1660146a6dacd36e?w=362&h=640&f=gif&s=336267)
-
+![](https://user-gold-cdn.xitu.io/2018/9/25/1660fcf60f384f63)
 **样例代码请到mecury_project/example里查看**
 
 ## 我的掘金主页
