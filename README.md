@@ -18,7 +18,7 @@ flutetr_note_book有许多flutter相关功能demo的集合。目前保持日更�
 - [在flutter中截屏](https://github.com/Vadaski/Flutter-Notebook/tree/master/mecury_project/example/widget_to_image)
 - [获取TextField的焦点并跳转下个焦点的demo](https://github.com/OpenFlutter/Flutter-Notebook/blob/master/mecury_project/example/textfields_focus_demo)
 ### 状态管理
-- [使用BLoC分离UILogic与BusinessLogic的demo](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/bloc_demo)
+- [使用BLoC分离UILogic与BusinessLogic的demo]()
 - [使用scoped_model在应用内共享状态的demo](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/scoped_demo)
 - [使用redux共享应用状态的demo](https://github.com/Vadaski/Flutter-Notebook/tree/master/mecury_project/example/redux_demo)
 ### 动画
