@@ -27,6 +27,7 @@ flutetr_note_book有许多flutter相关功能demo的集合。目前保持日更�
 - [使用bottomNavigationBar进行底部导航的demo](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/flutter_bottomnavigationbar)
 - [使用BottomAppBar进行底部导航的demo](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/bottom_appbar_demo)
 - [SliverAppBar+TabBar的demo](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/sliver_demo)
+- [使用高斯模糊（毛玻璃效果）的demo](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/frosted_glass_style_demo)
 ### 其他
 - [GDD2018最新Flutter preview2 widget体验](https://github.com/Vadaski/Flutter-Notebook/tree/master/mecury_project/example/release_preview2)
 #### 更多请进入mecury_project/example中寻找。
