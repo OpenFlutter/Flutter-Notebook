@@ -1,6 +1,8 @@
 # textfields_focus_demo
-
-在多个TextField中添加focus next按钮
+## 简介
+在多个TextField中获取焦点，并通过键盘跳到下一个焦点的demo
+## 样例
+![](https://user-gold-cdn.xitu.io/2018/9/27/16619c01c4594c75?w=362&h=640&f=gif&s=242384)
 
 ## Getting Started
 
