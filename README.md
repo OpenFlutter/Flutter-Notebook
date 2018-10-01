@@ -23,10 +23,12 @@ flutetr_note_book有许多flutter相关功能demo的集合。目前保持日更�
 - [右滑返回上一页](https://github.com/Vadaski/Flutter-Notebook/tree/master/mecury_project/example/right_back_demo)
 
 ### 优秀第三方库
-- [导航提示轮播页](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/slider_screen)
+- [应用介绍页——slider](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/slider_screen)
+- [应用介绍页——intro_view](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/intro_views)
 - [从本地相册选取多张图片](https://github.com/Vadaski/Flutter-Notebook/blob/master/mecury_project/example/load_multi_image)
 - [使用url_launcher唤醒功能](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/url_launcher_demo)
 - [拿捏图片放大缩小](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/pinch_zoom_image_demo)
+
 
 ### 动画
 - [基本动画样例](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/animation_demo)
