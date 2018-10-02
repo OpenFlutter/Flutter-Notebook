@@ -36,7 +36,7 @@ flutetr_note_book有许多flutter相关功能demo的集合。目前保持日更�
 - [Spinkit——一个很棒的等待动画库](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/spinkit_animation)
 
 ### 状态管理
-- [BLoC]()
+- [BLoC](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/bloc_demo)
 - [scoped_model](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/scoped_demo)
 - [redux](https://github.com/Vadaski/Flutter-Notebook/tree/master/mecury_project/example/redux_demo)
 
