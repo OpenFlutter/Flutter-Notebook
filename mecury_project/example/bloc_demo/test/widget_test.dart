@@ -1,16 +1,9 @@
-import 'package:flutter_test/flutter_test.dart';
-import 'dart:convert';
-
-import 'package:bloc_demo/model/mock/hacker_news_mock_data.dart';
-import 'package:bloc_demo/model/hacker_news.dart';
-
+// This is a basic Flutter widget test.
+// To perform an interaction with a widget in your test, use the WidgetTester utility that Flutter
+// provides. For example, you can send tap and scroll gestures. You can also use WidgetTester to
+// find child widgets in the widget tree, read text, and verify that the values of widget properties
+// are correct.
+import 'dart:async';
 
 void main() {
-  group("hacker_news_api_story test", (){
-    test("json deserialization", (){
-      Story story = Story.fromJson(json.decode(mockstory));
-      expect(story.url, "http://www.getdropbox.com/u/2/screencast.html");
-      print(story);
-    });
-  });
 }
