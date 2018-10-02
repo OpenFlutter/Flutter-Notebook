@@ -42,7 +42,7 @@ flutetr_note_book有许多flutter相关功能demo的集合。目前保持日更�
 
 ### 其他
 - [GDD2018最新Flutter preview2 widget体验](https://github.com/Vadaski/Flutter-Notebook/tree/master/mecury_project/example/release_preview2)
-- [Flutter challenge](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/animation_challenge)【持续更新中】
+- [Flutter Challenge](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/animation_challenge)【持续更新中】
 #### 更多请进入mecury_project/example中寻找。
 
 所有demo都最简化，尽量保证只与当前功能有关。每个demo文件代码在100行左右，十分适合新手阅读。
