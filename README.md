@@ -11,7 +11,6 @@ flutetr_note_book有许多flutter相关功能demo的集合。目前保持日更�
 - [高斯模糊（毛玻璃）](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/frosted_glass_style_demo)
 - [切换页面，保持各页面状态](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/keep_alive_demo)
 - [制作一个精美的Material风格搜索框](https://github.com/Vadaski/Flutter-Notebook/tree/master/mecury_project/example/beaytiful_search_bar_demo)
-- [在flutter中截屏](https://github.com/Vadaski/Flutter-Notebook/tree/master/mecury_project/example/widget_to_image)
 - [TextField的焦点及动作](https://github.com/OpenFlutter/Flutter-Notebook/blob/master/mecury_project/example/textfields_focus_demo)
 
 #### 功能
@@ -21,6 +20,7 @@ flutetr_note_book有许多flutter相关功能demo的集合。目前保持日更�
 - [json自动反序列化](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/flutter_auto_json_parsing)
 - [左滑删除ListView中Item](https://github.com/Vadaski/Flutter-Notebook/blob/master/mecury_project/example/swipe_to_dismiss)
 - [右滑返回上一页](https://github.com/Vadaski/Flutter-Notebook/tree/master/mecury_project/example/right_back_demo)
+- [在flutter中截屏](https://github.com/Vadaski/Flutter-Notebook/tree/master/mecury_project/example/widget_to_image)
 
 ### 优秀第三方库
 - [应用介绍页——slider](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/slider_screen)
@@ -42,6 +42,7 @@ flutetr_note_book有许多flutter相关功能demo的集合。目前保持日更�
 
 ### 其他
 - [GDD2018最新Flutter preview2 widget体验](https://github.com/Vadaski/Flutter-Notebook/tree/master/mecury_project/example/release_preview2)
+- [Flutter challenge](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/animation_challenge)【持续更新中】
 #### 更多请进入mecury_project/example中寻找。
 
 所有demo都最简化，尽量保证只与当前功能有关。每个demo文件代码在100行左右，十分适合新手阅读。
