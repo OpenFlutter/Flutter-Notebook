@@ -1,7 +1,12 @@
 /**
- * Hero Widget其实是利用了补件动画，两个尽量相似的Hero之间，使用同一个tag name来进行animation
+ * Hero Widget其实是利用了补件动画
+ * 两个尽量相似的Hero之间，使用同一个tag name来进行animation
+ * 所以分为源hero与目标hero
+ * 通过导入scheduler包中的timeDilation能够修改变化速度
+ * 在源Hero的build函数中设定timeDilation值即可
  */
 import 'package:flutter/material.dart';
+import 'package:flutter/scheduler.dart' show timeDilation;
 
 class SourceHeroPage extends StatefulWidget {
   @override
@@ -19,6 +24,7 @@ class _SourceHeroPageState extends State<SourceHeroPage> {
 
   @override
   Widget build(BuildContext context) {
+    timeDilation = 5.0;
     return Scaffold(
       appBar: AppBar(
         title: Text('SourceHeroPage'),
