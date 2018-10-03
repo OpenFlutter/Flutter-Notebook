@@ -3,15 +3,12 @@ import 'dart:async';
 class CountBLoC {
   int _count;
   StreamController<int> _countController;
-  Stream _value;
 
   CountBLoC() {
     _count = 0;
-    _countController = StreamController<int>();
-    _countController.sink.add(0);
-    _value = _countController.stream.asBroadcastStream();
+    _countController = StreamController.broadcast<int>();
   }
-  Stream<int> get value => _value;
+  Stream<int> get value => _countController.stream;
 
 //  var transformer = StreamTransformer.fromHandlers<int,int>(
 //      handleData: (value, sink){

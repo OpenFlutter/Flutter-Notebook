@@ -1,19 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:bloc_demo/single_global_instance/blocs/count_bloc.dart';
+import 'under_page.dart';
 
 class TopPage extends StatefulWidget {
   @override
   _TopPageState createState() => _TopPageState();
 }
 
-class _TopPageState extends State<TopPage> with TickerProviderStateMixin{
-  TabController controller ;
+class _TopPageState extends State<TopPage>{
 
-  @override
-  void initState() {
-    super.initState();
-    controller = TabController(length: 3, vsync: this);
-  }
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -23,6 +18,7 @@ class _TopPageState extends State<TopPage> with TickerProviderStateMixin{
       body: Center(
         child: StreamBuilder<int>(
             stream: bLoC.value,
+            initialData: 0,
             builder: (BuildContext context, AsyncSnapshot<int> snapshot) {
               return Text(
                 'You hit me: ${snapshot.data} times',
@@ -31,7 +27,8 @@ class _TopPageState extends State<TopPage> with TickerProviderStateMixin{
       ),
       floatingActionButton: FloatingActionButton(
           child: Icon(Icons.add),
-          onPressed: () => bLoC.increment()),
+          onPressed: () => Navigator.of(context)
+        .push(MaterialPageRoute(builder: (context) => UnderPage()))),
     );
   }
 }
