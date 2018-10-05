@@ -35,8 +35,17 @@
       <file leaf-file-name="animated_cross_fade_demo.dart" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/animated_cross_fade_demo.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+            <state relative-caret-position="217">
+              <caret line="24" column="21" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="animated_cross_fade.dart" pinned="false" current-in-tab="false">
+        <entry file="file://C:/src/flutter/packages/flutter/lib/src/widgets/animated_cross_fade.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -58,9 +67,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-12" />
-    <option name="y" value="-12" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
     <option name="width" value="1542" />
     <option name="height" value="1044" />
   </component>
@@ -182,7 +191,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Dart Analysis" weight="0.32394367" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32922536" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32922536" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="right" id="Flutter Outline" />
       <window_info anchor="bottom" id="Logcat" />
@@ -219,10 +228,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://C:/src/flutter/packages/flutter/lib/src/widgets/animated_cross_fade.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/animated_cross_fade_demo.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        <state relative-caret-position="217">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="24" />
         </state>
       </provider>
     </entry>
