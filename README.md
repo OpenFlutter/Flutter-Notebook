@@ -35,6 +35,7 @@ flutetr_note_book有许多flutter相关功能demo的集合。目前保持日更�
 - [神奇的Hero动画](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/hero_demo)
 - [Spinkit——一个很棒的等待动画库](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/spinkit_animation)
 - [AnimatedContainer](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/animated_container)
+- [AnimatedCrossFade](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/animated_cross_fade)
 
 ### 状态管理
 - [BLoC](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/bloc_demo)
