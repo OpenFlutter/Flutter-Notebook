@@ -41,8 +41,8 @@ flutetr_note_book有许多flutter相关功能demo的集合，它能够帮助您�
 
 ### 状态管理
 - [BLoC](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/bloc_demo)
-- [scoped_model](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/scoped_demo)
-- [redux](https://github.com/Vadaski/Flutter-Notebook/tree/master/mecury_project/example/redux_demo)
+- [Scoped_Model](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/scoped_demo)
+- [Redux](https://github.com/Vadaski/Flutter-Notebook/tree/master/mecury_project/example/redux_demo)
 
 ### 其他
 - [GDD2018最新Flutter preview2 widget体验](https://github.com/Vadaski/Flutter-Notebook/tree/master/mecury_project/example/release_preview2)
@@ -50,6 +50,11 @@ flutetr_note_book有许多flutter相关功能demo的集合，它能够帮助您�
 #### 更多请进入mecury_project/example中寻找。
 
 所有demo都最简化，尽量保证只与当前功能有关。每个demo文件代码在100行左右，十分适合新手阅读。
+
+## 如何下载单个项目
+将单个项目下url复制粘贴到下面这个中，将会自动生成下载文件：
+
+[DownGit](https://minhaskamal.github.io/DownGit/#/home)  
 ## 样例
 ![](https://user-gold-cdn.xitu.io/2018/9/10/165c24b154c98218?w=362&h=642&f=gif&s=739273)
 ![](https://user-gold-cdn.xitu.io/2018/9/10/165c24b3adbbd5aa?w=362&h=640&f=gif&s=121427)
