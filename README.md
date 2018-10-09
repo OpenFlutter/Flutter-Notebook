@@ -32,7 +32,7 @@ flutetr_note_book有许多flutter相关功能demo的集合，它能够帮助您�
 - [从本地相册选取多张图片](https://github.com/Vadaski/Flutter-Notebook/blob/master/mecury_project/example/load_multi_image)
 - [使用url_launcher唤醒功能](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/url_launcher_demo)
 - [拿捏图片放大缩小](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/pinch_zoom_image_demo)
-- [Spinkit——一个很棒的等待动画库](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/spinkit_animation)
+- [一个很棒的等待动画库——Spinkit](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/spinkit_animation)
 
 ### 动画
 - [基本动画样例](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/animation_demo)
