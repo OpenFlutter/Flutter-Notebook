@@ -15,6 +15,7 @@ flutetr_note_book有许多flutter相关功能demo的集合，它能够帮助您�
 - [制作一个精美的Material风格搜索框](https://github.com/Vadaski/Flutter-Notebook/tree/master/mecury_project/example/beaytiful_search_bar_demo)
 - [TextField的焦点及动作](https://github.com/OpenFlutter/Flutter-Notebook/blob/master/mecury_project/example/textfields_focus_demo)
 - [微信九宫格效果](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/warp_demo)
+- [chip系列组件](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/chip_demo)
 
 #### 功能
 - [返回上一页时弹出提示信息](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/will_pop_scope_demo)
