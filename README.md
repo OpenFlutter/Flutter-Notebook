@@ -54,7 +54,7 @@ flutetr_note_book有许多flutter相关功能demo的集合，它能够帮助您�
 ## 如何下载单个项目
 将单个项目下url复制粘贴到下面这个中，将会自动生成下载文件：
 
-[DownGit](https://minhaskamal.github.io/DownGit/#/home)  
+[DownGit](https://minhaskamal.github.io/DownGit/)  
 ## 样例
 ![](https://user-gold-cdn.xitu.io/2018/9/10/165c24b154c98218?w=362&h=642&f=gif&s=739273)
 ![](https://user-gold-cdn.xitu.io/2018/9/10/165c24b3adbbd5aa?w=362&h=640&f=gif&s=121427)
