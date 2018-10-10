@@ -2,12 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:bloc_demo/scoped/blocs/bloc_provider.dart';
 import 'under_page.dart';
 
-class TopPage extends StatefulWidget {
-  @override
-  _TopPageState createState() => _TopPageState();
-}
-
-class _TopPageState extends State<TopPage> {
+class TopPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final bloc = BlocProvider.of(context);
@@ -34,3 +29,4 @@ class _TopPageState extends State<TopPage> {
     );
   }
 }
+

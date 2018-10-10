@@ -1,12 +1,7 @@
 import 'package:flutter/material.dart';
 import 'blocs/bloc_provider.dart';
 
-class UnderPage extends StatefulWidget {
-  @override
-  _UnderPageState createState() => _UnderPageState();
-}
-
-class _UnderPageState extends State<UnderPage> {
+class UnderPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final bloc = BlocProvider.of(context);
@@ -20,14 +15,15 @@ class _UnderPageState extends State<UnderPage> {
             stream: bloc.value,
             initialData: 0,
             builder: (context, snapshot) => Text(
-                  "You hit me: ${snapshot.data} times",
-                  style: Theme.of(context).textTheme.display1,
-                )),
+              "You hit me: ${snapshot.data} times",
+              style: Theme.of(context).textTheme.display1,
+            )),
       ),
       floatingActionButton: FloatingActionButton(
-          onPressed: ()=> bloc.increment(),
-          child: Icon(Icons.add),
+        onPressed: ()=> bloc.increment(),
+        child: Icon(Icons.add),
       ),
     );
   }
 }
+

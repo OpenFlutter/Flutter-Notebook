@@ -16,11 +16,6 @@ class CountBLoC {
 //      }
 //  );
 
-  init(int initValue) {
-    _count = initValue;
-    _countController.sink.add(_count);
-  }
-
   increment() {
     _countController.sink.add(++_count);
   }

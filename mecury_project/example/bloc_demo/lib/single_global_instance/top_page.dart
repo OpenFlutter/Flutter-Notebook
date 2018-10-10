@@ -2,13 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:bloc_demo/single_global_instance/blocs/count_bloc.dart';
 import 'under_page.dart';
 
-class TopPage extends StatefulWidget {
-  @override
-  _TopPageState createState() => _TopPageState();
-}
-
-class _TopPageState extends State<TopPage>{
-
+class TopPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -28,8 +22,9 @@ class _TopPageState extends State<TopPage>{
       floatingActionButton: FloatingActionButton(
           child: Icon(Icons.add),
           onPressed: () => Navigator.of(context)
-        .push(MaterialPageRoute(builder: (context) => UnderPage()))),
+              .push(MaterialPageRoute(builder: (context) => UnderPage()))),
     );
   }
 }
+
 
