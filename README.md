@@ -46,9 +46,10 @@ flutetr_note_book有许多flutter相关功能demo的集合，它能够帮助您�
 - [AnimatedCrossFade](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/animated_cross_fade)
 
 ### 状态管理
-- [BLoC](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/bloc_demo)
 - [Scoped_Model](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/scoped_demo)
 - [Redux](https://github.com/Vadaski/Flutter-Notebook/tree/master/mecury_project/example/redux_demo)
+- [BLoC](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/bloc_demo)
+- [BLoC Privider模式](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/bloc_provider_pattern) 
 
 ### 其他
 - [GDD2018最新Flutter preview2 widget体验](https://github.com/Vadaski/Flutter-Notebook/tree/master/mecury_project/example/release_preview2)
