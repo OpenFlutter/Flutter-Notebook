@@ -3,7 +3,10 @@
 flutetr_note_book有许多flutter相关功能demo的集合，它能够帮助您快速学习一些零碎的知识。目前保持日更一个demo的速度。
 
 喜欢的话可以Watch该项目，之后更新会自动通知您。
+## 如何下载单个项目
+将单个项目下url复制粘贴到下面这个中，将会自动生成下载文件：
 
+[DownGit](https://minhaskamal.github.io/DownGit/) 
 ## 目前包含以下demo：
 ### 官方控件系列
 #### 视图
@@ -53,11 +56,7 @@ flutetr_note_book有许多flutter相关功能demo的集合，它能够帮助您�
 #### 更多请进入mecury_project/example中寻找。
 
 所有demo都最简化，尽量保证只与当前功能有关。每个demo文件代码在100行左右，十分适合新手阅读。
-
-## 如何下载单个项目
-将单个项目下url复制粘贴到下面这个中，将会自动生成下载文件：
-
-[DownGit](https://minhaskamal.github.io/DownGit/)  
+ 
 ## 样例
 ![](https://user-gold-cdn.xitu.io/2018/9/10/165c24b154c98218?w=362&h=642&f=gif&s=739273)
 ![](https://user-gold-cdn.xitu.io/2018/9/10/165c24b3adbbd5aa?w=362&h=640&f=gif&s=121427)
