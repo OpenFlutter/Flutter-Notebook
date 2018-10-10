@@ -6,7 +6,7 @@ flutetr_note_book有许多flutter相关功能demo的集合，它能够帮助您�
 ## 如何下载单个项目
 将单个项目下url复制粘贴到下面这个中，将会自动生成下载文件：
 
-[DownGit](https://minhaskamal.github.io/DownGit/) 
+[DownGit](https://minhaskamal.github.io/DownGit/#/home) 
 ## 目前包含以下demo：
 ### 官方控件系列
 #### 视图
