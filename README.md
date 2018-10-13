@@ -1,6 +1,6 @@
 # Vadaski-Flutter Notebook
 ## flutter_notebook有什么
-flutetr_note_book有许多flutter相关功能demo的集合，它能够帮助您快速学习一些零碎的知识。目前保持日更一个demo的速度。
+flutetr_note_book有许多flutter相关功能demo的集合，它能够帮助您快速学习一些零碎的知识。
 
 喜欢的话可以Watch该项目，之后更新会自动通知您。
 ## 如何下载单个项目
