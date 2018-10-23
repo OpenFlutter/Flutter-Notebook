@@ -5,7 +5,7 @@
 - 父子动画：parent_animation_demo.dart，another_parent_animation_demo.dart
 - 转换动画： transforming_animation_demo.dart
 - 价值转换动画：value_change_animation_demo.dart
-- 使用动画单击隐藏小部件，双击显示小部件：value_change_animation_demo.dart
+- 使用动画单击隐藏小部件，双击显示小部件：hidden_widget_animation_demo
 
 
 # 使用方式
