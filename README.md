@@ -33,6 +33,7 @@ flutetr_note_book有许多flutter相关功能demo的集合，它能够帮助您�
 - [在flutter中截屏](https://github.com/Vadaski/Flutter-Notebook/tree/master/mecury_project/example/widget_to_image)
 - [轻量级操作提示控件toolstip](https://github.com/OpenFlutter/Flutter-Notebook/blob/master/mecury_project/example/tool_tips_demo)
 - [可拖动组件draggable](https://github.com/OpenFlutter/Flutter-Notebook/blob/master/mecury_project/example/draggable_demo/)
+- [去掉点击事件的水波纹效果](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/without_splash_color)
 
 ### 优秀第三方库
 - [应用介绍页——slider](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/slider_screen)
