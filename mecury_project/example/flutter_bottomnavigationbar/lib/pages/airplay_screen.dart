@@ -7,5 +7,4 @@ class AirPlayScreen extends StatelessWidget{
       appBar: AppBar(title: Text('AirPlay'),),
     );
   }
-
 }
