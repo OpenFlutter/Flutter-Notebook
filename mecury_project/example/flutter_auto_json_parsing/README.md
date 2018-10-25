@@ -1,5 +1,5 @@
-# flutter JSON自动反序列化demo
-
+# flutter JSON自动反序列化demo（已更新）
+## 简介
 - 使用json_serializable进行JSON自动反序列化
 - 使用build_runner生成代码
 
