@@ -60,6 +60,7 @@ flutetr_note_book有许多flutter相关功能demo的集合，它能够帮助您�
 - [GDD2018最新Flutter preview2 widget体验](https://github.com/Vadaski/Flutter-Notebook/tree/master/mecury_project/example/release_preview2)
 - [Flutter Challenge](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/animation_challenge)【持续更新中】
 - [一个漂亮的flutter组件库](https://github.com/samarthagarwal/FlutterScreens)
+- [混合栈管理 闲鱼](https://github.com/alibaba-flutter/hybrid_stack_manager)
 
 #### 更多请进入mecury_project/example中寻找。
 
