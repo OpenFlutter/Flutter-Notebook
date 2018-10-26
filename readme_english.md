@@ -61,7 +61,7 @@ Copy and paste the URL under a single item into the following one, the download 
 
 ### Others
 - [GDD2018 latest Flutter preview2 widget experience](https://github.com/Vadaski/Flutter-Notebook/tree/master/mecury_project/example/release_preview2)
-- [Flutter Challenge](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/animation_challenge)【持续更新中】
+- [Flutter Challenge](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/animation_challenge)
 - [a beautiful flutter component library](https://github.com/samarthagarwal/FlutterScreens)
 
 ## My Blog
