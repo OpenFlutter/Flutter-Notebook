@@ -1,5 +1,4 @@
 # Vadaski-Flutter Notebook
-[中文版](https://github.com/OpenFlutter/Flutter-Notebook/edit/master/README.md)
 ## what is flutter_notebook
 🧐Flutter notebook is a collection of flutter demos，It can help you quickly learn some piecemeal knowledge.
 
@@ -98,4 +97,3 @@ https://juejin.im/user/5b5d45f4e51d453526175c06/posts
 ![](https://user-gold-cdn.xitu.io/2018/9/22/1660146a6dacd36e?w=362&h=640&f=gif&s=336267)
 ![](https://user-gold-cdn.xitu.io/2018/9/25/1660fcf60f384f63)
 ![](https://user-gold-cdn.xitu.io/2018/9/29/16624073ba03bfbe?w=362&h=640&f=gif&s=855341)
-
