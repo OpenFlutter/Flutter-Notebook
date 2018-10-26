@@ -40,6 +40,7 @@ Copy and paste the URL under a single item into the following one, the download 
 - [remove the ripple effect of the click event](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/without_splash_color)
 
 ### Excellent Flutter Pub Librarys
+- [hybrid stack management framework](https://github.com/alibaba-flutter/hybrid_stack_manager)
 - [application introduction page——slider](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/slider_screen)
 - [application introduction page——intro_view](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/intro_views)
 - [select multiple images from a local album](https://github.com/Vadaski/Flutter-Notebook/blob/master/mecury_project/example/load_multi_image)
