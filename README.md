@@ -37,6 +37,7 @@ flutetr_note_book有许多flutter相关功能demo的集合，它能够帮助您�
 - [去掉点击事件的水波纹效果](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/without_splash_color)
 
 ### 优秀第三方库
+- [闲鱼混合栈管理框架](https://github.com/alibaba-flutter/hybrid_stack_manager)
 - [应用介绍页——slider](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/slider_screen)
 - [应用介绍页——intro_view](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/intro_views)
 - [从本地相册选取多张图片](https://github.com/Vadaski/Flutter-Notebook/blob/master/mecury_project/example/load_multi_image)
@@ -60,7 +61,7 @@ flutetr_note_book有许多flutter相关功能demo的集合，它能够帮助您�
 - [GDD2018最新Flutter preview2 widget体验](https://github.com/Vadaski/Flutter-Notebook/tree/master/mecury_project/example/release_preview2)
 - [Flutter Challenge](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/animation_challenge)【持续更新中】
 - [一个漂亮的flutter组件库](https://github.com/samarthagarwal/FlutterScreens)
-- [混合栈管理 闲鱼](https://github.com/alibaba-flutter/hybrid_stack_manager)
+
 
 #### 更多请进入mecury_project/example中寻找。
 
