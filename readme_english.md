@@ -57,7 +57,7 @@ Copy and paste the URL under a single item into the following one, the download 
 - [Scoped_Model](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/scoped_demo)
 - [Redux](https://github.com/Vadaski/Flutter-Notebook/tree/master/mecury_project/example/redux_demo)
 - [BLoC](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/bloc_demo)
-- [BLoC Provider模式](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/bloc_provider_pattern) 
+- [BLoC Provider](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/bloc_provider_pattern) 
 
 ### Others
 - [GDD2018 latest Flutter preview2 widget experience](https://github.com/Vadaski/Flutter-Notebook/tree/master/mecury_project/example/release_preview2)
