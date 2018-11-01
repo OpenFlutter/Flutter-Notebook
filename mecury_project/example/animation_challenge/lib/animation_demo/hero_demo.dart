@@ -1,11 +1,12 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/scheduler.dart' show timeDilation;
 
-class MyHomePage extends StatefulWidget {
+class HeroDemo extends StatefulWidget {
   @override
-  _MyHomePageState createState() => _MyHomePageState();
+  _HeroDemoState createState() => _HeroDemoState();
 }
 
-class _MyHomePageState extends State<MyHomePage> {
+class _HeroDemoState extends State<HeroDemo> {
   List<String> list;
 
   @override
@@ -16,6 +17,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
   @override
   Widget build(BuildContext context) {
+    timeDilation = 2.0;
     return Scaffold(
       appBar: AppBar(
         title: Text('Demo1'),
