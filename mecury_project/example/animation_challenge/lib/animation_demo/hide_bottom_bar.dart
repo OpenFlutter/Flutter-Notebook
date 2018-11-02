@@ -28,7 +28,7 @@ class _HideBottomBarDemoState extends State<HideBottomBarDemo>
     super.initState();
     _animationController =
         AnimationController(vsync: this, duration: Duration(milliseconds: 300));
-    _animation = Tween(begin: 0.0, end: -60.0).animate(CurvedAnimation(
+    _animation = Tween(begin: 0.0, end: -100.0).animate(CurvedAnimation(
         parent: _animationController, curve: Curves.fastOutSlowIn));
     _scrollController = ScrollController(keepScrollOffset: true)
       ..addListener(_judgeScroll);
