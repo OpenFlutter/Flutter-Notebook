@@ -22,13 +22,13 @@ class _HideBottomBarDemoState extends State<HideBottomBarDemo>
         parent: _animationController, curve: Curves.fastOutSlowIn));
     _scrollController = ScrollController(keepScrollOffset: true)
       ..addListener(() {
-        if (_scrollController.offset - offset > 30.0 &&
+        if (_scrollController.offset - offset > 10.0 &&
             _animationController.status == AnimationStatus.dismissed) {
           print("监测下拉");
           offset = _scrollController.offset;
           _animationController.forward();
         }
-        if (offset - _scrollController.offset > 30.0 &&
+        if (offset - _scrollController.offset > 10.0 &&
             _animationController.status == AnimationStatus.completed) {
           print("监测上拉");
           offset = _scrollController.offset;
@@ -77,7 +77,7 @@ class _HideBottomBarDemoState extends State<HideBottomBarDemo>
 
   Widget _buildListView(BuildContext context, ScrollController controller) {
     return ListView.builder(
-        controller: controller,
+        controller: _scrollController,
         itemCount: list.length,
         itemBuilder: (context, index) => ListTile(
               title: Text(list[index]),
