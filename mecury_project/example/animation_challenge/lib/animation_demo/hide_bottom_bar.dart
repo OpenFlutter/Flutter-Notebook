@@ -81,7 +81,7 @@ class _HideBottomBarDemoState extends State<HideBottomBarDemo>
       ),
     );
   }
-
+  
   Widget _buildListView() => ListView.builder(
       controller: _scrollController,
       itemBuilder: (context, index) => ListTile(
