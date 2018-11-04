@@ -9,6 +9,11 @@ flutetr_note_book有许多flutter相关功能demo的集合，它能够帮助您�
 将单个项目下url复制粘贴到下面这个中，将会自动生成下载文件：
 
 [DownGit](https://minhaskamal.github.io/DownGit/#/home) 
+
+## 我的掘金主页
+https://juejin.im/user/5b5d45f4e51d453526175c06/posts
+
+欢迎关注
 ## 目前包含以下demo：
 ### 官方控件系列
 #### 视图
@@ -98,9 +103,4 @@ flutetr_note_book有许多flutter相关功能demo的集合，它能够帮助您�
 ![](https://user-gold-cdn.xitu.io/2018/9/25/1660fcf60f384f63)
 ![](https://user-gold-cdn.xitu.io/2018/9/29/16624073ba03bfbe?w=362&h=640&f=gif&s=855341)
 
-**样例代码请到mecury_project/example里查看**
 
-## 我的掘金主页
-https://juejin.im/user/5b5d45f4e51d453526175c06/posts
-
-欢迎关注
