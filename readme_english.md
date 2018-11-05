@@ -26,7 +26,7 @@ Copy and paste the URL under a single item into the following one, the download 
 - [warp demo](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/warp_demo)
 - [chip series](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/chip_demo)
 - [expansion series](https://github.com/OpenFlutter/Flutter-Notebook/blob/master/mecury_project/example/expansion_demo)
-- [overlay new widget](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/overlay)
+- [overlay new widget on screen](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/overlay)
 
 #### Function
 - [returning to the previous page to pop up the dialog](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/will_pop_scope_demo)
