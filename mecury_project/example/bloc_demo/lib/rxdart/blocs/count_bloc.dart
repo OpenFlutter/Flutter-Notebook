@@ -1,16 +1,16 @@
 import 'package:rxdart/rxdart.dart';
 import 'dart:async';
 
-class CountBLoC{
-
-  int _count= 0;
+class CountBLoC {
+  int _count = 0;
   var _subject = BehaviorSubject<int>();
 
-  Stream<int> get value => _subject.stream;
+  Stream<int> get stream => _subject.stream;
+  int get value => _count;
 
-  void increment()=> _subject.add(++_count);
+  void increment() => _subject.add(++_count);
 
-  void dispose(){
+  void dispose() {
     _subject.close();
   }
 }
