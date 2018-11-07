@@ -57,7 +57,7 @@ class _ActionSheetActionDemoState extends State<ActionSheetActionDemo> {
                   showCupertinoModalPopup(
                       context: context,
                       builder: (BuildContext context) {
-                        buildCupertinoActionSheet(context);
+                       return buildCupertinoActionSheet(context);
                       });
                 }))
       ],
