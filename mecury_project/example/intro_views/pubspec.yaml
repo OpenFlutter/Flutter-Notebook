@@ -38,15 +38,8 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-assets:
-    - assets/air-hostess.png
-    - assets/airplane.png
-    - assets/bus-driver.png
-    - assets/bus.png
-    - assets/hotel.png
-    - assets/taxi.png
-    - assets/taxi-driver.png
-    - assets/waiter.png
+  assets:
+    - assets/
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.io/assets-and-images/#resolution-aware.
 
@@ -58,7 +51,7 @@ assets:
   # "family" key with the font family name, and a "fonts" key with a
   # list giving the asset and other descriptors for the font. For
   # example:
-fonts:
+  fonts:
     - family: MyFont
       fonts:
         - asset: assets/Fonts/sspu.ttf
