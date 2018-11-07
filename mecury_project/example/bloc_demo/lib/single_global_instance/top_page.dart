@@ -11,8 +11,8 @@ class TopPage extends StatelessWidget {
       ),
       body: Center(
         child: StreamBuilder<int>(
-            stream: bLoC.value,
-            initialData: 0,
+            stream: bloc.stream,
+            initialData: bloc.value,
             builder: (BuildContext context, AsyncSnapshot<int> snapshot) {
               return Text(
                 'You hit me: ${snapshot.data} times',
@@ -21,10 +21,8 @@ class TopPage extends StatelessWidget {
       ),
       floatingActionButton: FloatingActionButton(
           child: Icon(Icons.add),
-          onPressed: () => Navigator.of(context)
-              .push(MaterialPageRoute(builder: (context) => UnderPage()))),
+          onPressed: () =>
+              Navigator.of(context).push(MaterialPageRoute(builder: (context) => UnderPage()))),
     );
   }
 }
-
-

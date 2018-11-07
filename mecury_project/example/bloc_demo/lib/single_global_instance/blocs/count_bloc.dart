@@ -1,11 +1,11 @@
 import 'dart:async';
 
 class CountBLoC {
-
   int _count = 0;
   var _countController = StreamController.broadcast<int>();
 
-  Stream<int> get value => _countController.stream;
+  Stream<int> get stream => _subject.stream;
+  int get value => _count;
 
   increment() {
     _countController.sink.add(++_count);

@@ -4,25 +4,23 @@ import 'blocs/count_bloc.dart';
 class UnderPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-
     return Scaffold(
       appBar: AppBar(
         title: Text('Under Page'),
       ),
       body: Center(
         child: StreamBuilder(
-            stream: bLoC.value,
-            initialData: 0,
+            stream: bloc.stream,
+            initialData: bloc.value,
             builder: (context, snapshot) => Text(
-              "You hit me: ${snapshot.data} times",
-              style: Theme.of(context).textTheme.display1,
-            )),
+                  "You hit me: ${snapshot.data} times",
+                  style: Theme.of(context).textTheme.display1,
+                )),
       ),
       floatingActionButton: FloatingActionButton(
-        onPressed: ()=> bLoC.increment(),
+        onPressed: () => bLoC.increment(),
         child: Icon(Icons.add),
       ),
     );
   }
 }
-
