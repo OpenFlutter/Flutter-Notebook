@@ -18,7 +18,7 @@ Copy and paste the URL under a single item into the following one, the download 
 #### UI
 - [bottom navigation with BottomNavigationBar](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/flutter_bottomnavigationbar)
 - [bottom navigation with BottomAppBar](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/bottom_appbar_demo)
-- [SliverAppBar + TabBar demo](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/sliver_demo)
+- [Sliver widget](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/sliver_demo)
 - [Gaussian blur](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/frosted_glass_style_demo)
 - [Switch page save status](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/keep_alive_demo)
 - [beautiful material search bar](https://github.com/Vadaski/Flutter-Notebook/tree/master/mecury_project/example/beaytiful_search_bar_demo)
@@ -84,7 +84,7 @@ https://juejin.im/user/5b5d45f4e51d453526175c06/posts
 ![](https://user-gold-cdn.xitu.io/2018/9/9/165ba4afd401fc53?w=362&h=642&f=gif&s=3125329)
 ![](https://user-gold-cdn.xitu.io/2018/9/9/165bd164ce03a359?w=362&h=642&f=gif&s=549629)
 ![](https://user-gold-cdn.xitu.io/2018/9/9/165bddae47c84b18?w=362&h=642&f=gif&s=486901)
-![](https://user-gold-cdn.xitu.io/2018/9/11/165c864da39b5296?w=362&h=640&f=gif&s=270132)
+![](https://user-gold-cdn.xitu.io/2018/11/9/166f747e73996d03?w=316&h=570&f=gif&s=430201)
 ![](https://user-gold-cdn.xitu.io/2018/9/12/165cd5463f99cb2b?w=362&h=640&f=gif&s=627463)
 ![](https://user-gold-cdn.xitu.io/2018/9/12/165cd82770ff732e?w=362&h=640&f=gif&s=445737)
 ![](https://user-gold-cdn.xitu.io/2018/9/13/165cece8f2ad7e58?w=362&h=640&f=gif&s=158087)
