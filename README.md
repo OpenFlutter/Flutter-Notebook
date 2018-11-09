@@ -15,7 +15,6 @@ flutetr_note_book有许多flutter相关功能demo的集合，它能够帮助您�
 #### 视图
 - [BottomNavigationBar底部导航](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/flutter_bottomnavigationbar)
 - [BottomAppBar底部导航](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/bottom_appbar_demo)
-- [SliverAppBar+TabBar顶部导航](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/sliver_demo)
 - [高斯模糊（毛玻璃）](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/frosted_glass_style_demo)
 - [切换页面，保持各页面状态](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/keep_alive_demo)
 - [制作一个精美的Material风格搜索框](https://github.com/Vadaski/Flutter-Notebook/tree/master/mecury_project/example/beaytiful_search_bar_demo)
@@ -23,6 +22,7 @@ flutetr_note_book有许多flutter相关功能demo的集合，它能够帮助您�
 - [微信九宫格效果](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/warp_demo)
 - [标签控件 chip系列](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/chip_demo)
 - [可展开控件 expansion系列](https://github.com/OpenFlutter/Flutter-Notebook/blob/master/mecury_project/example/expansion_demo)
+- [可滑动控件Sliver系列](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/sliver_demo)
 
 #### 功能
 - [返回上一页时弹出提示信息](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/will_pop_scope_demo)
@@ -85,7 +85,7 @@ https://juejin.im/user/5b5d45f4e51d453526175c06/posts
 ![](https://user-gold-cdn.xitu.io/2018/9/9/165ba4afd401fc53?w=362&h=642&f=gif&s=3125329)
 ![](https://user-gold-cdn.xitu.io/2018/9/9/165bd164ce03a359?w=362&h=642&f=gif&s=549629)
 ![](https://user-gold-cdn.xitu.io/2018/9/9/165bddae47c84b18?w=362&h=642&f=gif&s=486901)
-![](https://user-gold-cdn.xitu.io/2018/9/11/165c864da39b5296?w=362&h=640&f=gif&s=270132)
+![](https://user-gold-cdn.xitu.io/2018/11/9/166f747e73996d03?w=316&h=570&f=gif&s=430201)
 ![](https://user-gold-cdn.xitu.io/2018/9/12/165cd5463f99cb2b?w=362&h=640&f=gif&s=627463)
 ![](https://user-gold-cdn.xitu.io/2018/9/12/165cd82770ff732e?w=362&h=640&f=gif&s=445737)
 ![](https://user-gold-cdn.xitu.io/2018/9/13/165cece8f2ad7e58?w=362&h=640&f=gif&s=158087)
