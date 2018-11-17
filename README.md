@@ -15,6 +15,7 @@ flutetr_note_book有许多flutter相关功能demo的集合，它能够帮助您�
 #### 视图
 - [BottomNavigationBar底部导航](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/flutter_bottomnavigationbar)
 - [BottomAppBar底部导航](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/bottom_appbar_demo)
+- [自定义路由样式](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/custom_router_transition)
 - [高斯模糊（毛玻璃）](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/frosted_glass_style_demo)
 - [切换页面，保持各页面状态](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/keep_alive_demo)
 - [制作一个精美的Material风格搜索框](https://github.com/Vadaski/Flutter-Notebook/tree/master/mecury_project/example/beaytiful_search_bar_demo)
