@@ -2,6 +2,8 @@
 ## 简介
 flutter UI挑战【持续更新中】
 ## 样例
+### [IM聊天界面](https://github.com/OpenFlutter/Flutter-Notebook/blob/master/mecury_project/example/animation_challenge/lib/screens/im_demo.dart)
+![](https://user-gold-cdn.xitu.io/2018/11/20/1672cc80c46612c1?w=323&h=573&f=gif&s=681463)
 ### [沉浸式底部导航](https://github.com/OpenFlutter/Flutter-Notebook/blob/master/mecury_project/example/animation_challenge/lib/animation_demo/hide_bottom_bar.dart)
 ![](https://user-gold-cdn.xitu.io/2018/11/1/166cf1abaa9bcbea?w=365&h=740&f=gif&s=1490960)
 ### [录音机](https://github.com/OpenFlutter/Flutter-Notebook/blob/master/mecury_project/example/animation_challenge/lib/animation_demo/audio_screen.dart)
