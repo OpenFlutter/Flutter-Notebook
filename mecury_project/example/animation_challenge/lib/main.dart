@@ -3,9 +3,10 @@
  * 请通过切换home注释查看
  */
 import 'package:flutter/material.dart';
-import 'animation_demo/hero_demo.dart';
-import 'animation_demo/hide_bottom_bar.dart';
-import 'animation_demo/audio_screen.dart';
+import 'screens/hero_demo.dart';
+import 'screens/hide_bottom_bar.dart';
+import 'screens/audio_screen.dart';
+import 'screens/im_demo.dart';
 
 void main() => runApp(new MyApp());
 
@@ -14,10 +15,11 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return new MaterialApp(
       title: 'Flutter Demo',
-      theme: new ThemeData.light(),
+      theme: new ThemeData.dark(),
 //      home: HeroDemo(),
 //      home: HideBottomBarDemo(),
-        home: AudioScreen(),
+//      home: AudioScreen(),
+        home: ImScreen(),
     );
   }
 }
