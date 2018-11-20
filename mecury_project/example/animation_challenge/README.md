@@ -4,11 +4,11 @@ flutter UI挑战【持续更新中】
 ## 样例
 ### [IM聊天界面](https://github.com/OpenFlutter/Flutter-Notebook/blob/master/mecury_project/example/animation_challenge/lib/screens/im_demo.dart)
 ![](https://user-gold-cdn.xitu.io/2018/11/20/1672cceb8d401ee1?w=319&h=567&f=gif&s=718407)
-### [沉浸式底部导航](https://github.com/OpenFlutter/Flutter-Notebook/blob/master/mecury_project/example/animation_challenge/lib/animation_demo/hide_bottom_bar.dart)
+### [沉浸式底部导航](https://github.com/OpenFlutter/Flutter-Notebook/blob/master/mecury_project/example/animation_challenge/lib/screens/hide_bottom_bar.dart)
 ![](https://user-gold-cdn.xitu.io/2018/11/1/166cf1abaa9bcbea?w=365&h=740&f=gif&s=1490960)
-### [录音机](https://github.com/OpenFlutter/Flutter-Notebook/blob/master/mecury_project/example/animation_challenge/lib/animation_demo/audio_screen.dart)
+### [录音机](https://github.com/OpenFlutter/Flutter-Notebook/blob/master/mecury_project/example/animation_challenge/lib/screens/audio_screen.dart)
 ![](https://user-gold-cdn.xitu.io/2018/11/2/166d3724dd1a65ff?w=370&h=747&f=gif&s=243515)
-### [hero 挑战](https://github.com/OpenFlutter/Flutter-Notebook/blob/master/mecury_project/example/animation_challenge/lib/animation_demo/hero_demo.dart)
+### [hero 挑战](https://github.com/OpenFlutter/Flutter-Notebook/blob/master/mecury_project/example/animation_challenge/lib/screens/hero_demo.dart)
 ![](https://user-gold-cdn.xitu.io/2018/10/2/1663447ee1fde5a2?w=355&h=636&f=gif&s=747675)
 ## Getting Started
 
