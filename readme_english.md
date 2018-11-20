@@ -49,6 +49,7 @@ Copy and paste the URL under a single item into the following one, the download 
 - [url_launcher](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/url_launcher_demo)
 - [picture gestures zoom in and out](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/pinch_zoom_image_demo)
 - [progress indicator animation——Spinkit](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/spinkit_animation)
+- [cool ui](https://github.com/Im-Kevin/cool_ui)
 
 ### Animation
 - [basic animations](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/animation_demo)
