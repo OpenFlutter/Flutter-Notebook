@@ -10,8 +10,8 @@ class UnderPage extends StatelessWidget {
       ),
       body: Center(
         child: StreamBuilder(
-            stream: bloc.stream,
-            initialData: bloc.value,
+            stream: bLoC.stream,
+            initialData: bLoC.value,
             builder: (context, snapshot) => Text(
                   "You hit me: ${snapshot.data} times",
                   style: Theme.of(context).textTheme.display1,

@@ -4,7 +4,7 @@ class CountBLoC {
   int _count = 0;
   var _countController = StreamController.broadcast<int>();
 
-  Stream<int> get stream => _subject.stream;
+  Stream<int> get stream => _countController.stream;
   int get value => _count;
 
   increment() {

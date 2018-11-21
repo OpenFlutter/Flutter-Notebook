@@ -11,8 +11,8 @@ class TopPage extends StatelessWidget {
       ),
       body: Center(
         child: StreamBuilder<int>(
-            stream: bloc.stream,
-            initialData: bloc.value,
+            stream: bLoC.stream,
+            initialData: bLoC.value,
             builder: (BuildContext context, AsyncSnapshot<int> snapshot) {
               return Text(
                 'You hit me: ${snapshot.data} times',
