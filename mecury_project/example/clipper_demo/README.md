@@ -1,7 +1,8 @@
 # clipper_demo
-
-custome clipper
-
+## 简介
+使用贝塞尔二阶曲线切割的demo
+## 样例
+![](https://user-gold-cdn.xitu.io/2018/12/15/167b11fe661a9c61?w=366&h=745&f=png&s=44351)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
