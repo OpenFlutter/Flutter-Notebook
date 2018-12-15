@@ -17,9 +17,9 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       theme: new ThemeData.dark(),
 //      home: HeroDemo(),
-//      home: HideBottomBarDemo(),
+      home: HideBottomBarDemo(),
 //      home: AudioScreen(),
-        home: ImScreen(),
+//        home: ImScreen(),
     );
   }
 }

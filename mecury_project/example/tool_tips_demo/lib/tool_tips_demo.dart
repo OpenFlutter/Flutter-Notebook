@@ -18,7 +18,8 @@ class ToolTipDemo extends StatelessWidget {
       body: Center(
         child: Tooltip(
             message: "开启飞行模式",
-            child: Icon(Icons.airplanemode_inactive,),),
+            child: Icon(Icons.airplanemode_inactive,),
+        ),
       ),
     );
   }

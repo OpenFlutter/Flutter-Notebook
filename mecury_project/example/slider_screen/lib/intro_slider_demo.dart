@@ -195,7 +195,7 @@ class _SliderScreenState extends State<SliderScreen> {
 
   @override
   Widget build(BuildContext context) {
-    return new IntroSlider(
+    return IntroSlider(
       slides: this.slides,
       onDonePress: this.onDonePress,
       onSkipPress: this.onSkipPress,

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/rendering.dart';
+import 'package:flutter/rendering.dart';s
 
 class HideBottomBarDemo extends StatefulWidget {
   @override
@@ -81,11 +81,12 @@ class _HideBottomBarDemoState extends State<HideBottomBarDemo>
       ),
     );
   }
-  
+
   Widget _buildListView() => ListView.builder(
       controller: _scrollController,
       itemBuilder: (context, index) => ListTile(
             leading: Icon(Icons.access_alarm),
             title: Text("this is index: $index"),
           ));
+
 }

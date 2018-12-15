@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return new MaterialApp(
       title: 'Flutter Demo',
-      theme: new ThemeData.dark(),
+      theme: new ThemeData.light(),
       home: ToolTipDemo(),
     );
   }
