@@ -7,6 +7,7 @@ import 'screens/hero_demo.dart';
 import 'screens/hide_bottom_bar.dart';
 import 'screens/audio_screen.dart';
 import 'screens/im_demo.dart';
+import 'screens/rotating_demo.dart';
 
 void main() => runApp(new MyApp());
 
@@ -17,9 +18,11 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       theme: new ThemeData.dark(),
 //      home: HeroDemo(),
-      home: HideBottomBarDemo(),
+//      home: HideBottomBarDemo(),
 //      home: AudioScreen(),
-//        home: ImScreen(),
+//      home: ImScreen(),
+    home: RotatingScreen(),
+
     );
   }
 }

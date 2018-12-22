@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/rendering.dart';s
+import 'package:flutter/rendering.dart';
 
 class HideBottomBarDemo extends StatefulWidget {
   @override
