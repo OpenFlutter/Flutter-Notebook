@@ -4,7 +4,6 @@ flutter UI挑战【持续更新中】
 ## 样例
 ### [旋转按钮，且能够获取旋转角度0-360](https://github.com/OpenFlutter/Flutter-Notebook/blob/master/mecury_project/example/animation_challenge/lib/widgets/rotating_bar.dart)
 ![](https://user-gold-cdn.xitu.io/2018/12/22/167d4ab0e4d74da0?w=317&h=568&f=gif&s=119730)
-![](https://user-gold-cdn.xitu.io/2018/12/22/167d4ab39fcf9fd1?w=321&h=572&f=gif&s=102126)
 ![](https://user-gold-cdn.xitu.io/2018/12/22/167d4ab7a4e29164?w=318&h=567&f=gif&s=110184)
 ### [IM聊天界面](https://github.com/OpenFlutter/Flutter-Notebook/blob/master/mecury_project/example/animation_challenge/lib/screens/im_demo.dart)
 ![](https://user-gold-cdn.xitu.io/2018/11/20/1672cceb8d401ee1?w=319&h=567&f=gif&s=718407)
