@@ -10,12 +10,12 @@ class RotatingScreen extends StatelessWidget {
         body: Stack(
       children: <Widget>[
         Positioned(
-          left: size.width/4,
-          top: size.height/3,
+          left: size.width / 4,
+          top: size.height / 3,
           child: RotatingBar(
             getBackCenter: true,
-            dx: size.width/4,
-            dy: size.height/3,
+            dx: size.width / 4,
+            dy: size.height / 3,
             style: Style.Touch,
             getAngle: (angle) {
               print(angle);

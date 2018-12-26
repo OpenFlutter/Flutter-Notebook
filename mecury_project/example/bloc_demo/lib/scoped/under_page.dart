@@ -5,7 +5,7 @@ class UnderPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final bloc = BlocProvider.of(context);
-
+    print('build');
     return Scaffold(
       appBar: AppBar(
         title: Text('Under Page'),

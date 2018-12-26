@@ -18,18 +18,18 @@ void main() => runApp(MyApp());
 /**
  * scoped 入口
  */
-//class MyApp extends StatelessWidget {
-//  @override
-//  Widget build(BuildContext context) {
-//    return BlocProvider(
-//      child: MaterialApp(
-//        title: 'scoped',
-//        theme: ThemeData.dark(),
-//        home: TopPage(),
-//      ),
-//    );
-//  }
-//}
+class MyApp extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return BlocProvider(
+      child: MaterialApp(
+        title: 'scoped',
+        theme: ThemeData.dark(),
+        home: TopPage(),
+      ),
+    );
+  }
+}
 
 /**
  * single_global_instance 入口
@@ -48,15 +48,15 @@ void main() => runApp(MyApp());
 /**
  * rxdart 入口
  */
-class MyApp extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return BlocProvider(
-      child: MaterialApp(
-        title: 'rxdart',
-        theme: ThemeData.dark(),
-        home: TopPage(),
-      ),
-    );
-  }
-}
+//class MyApp extends StatelessWidget {
+//  @override
+//  Widget build(BuildContext context) {
+//    return BlocProvider(
+//      child: MaterialApp(
+//        title: 'rxdart',
+//        theme: ThemeData.dark(),
+//        home: TopPage(),
+//      ),
+//    );
+//  }
+//}
