@@ -8,4 +8,5 @@
 来自于Stephen Grider的hacker news app，使用了bloc作为状态管理。十分具有参考价值且足够简单。
 
 请安装在真机上并打开科学上网工具才能正确访问hacker news api
+
 [hacker news app](https://github.com/Vadaski/hacker_news_app)
