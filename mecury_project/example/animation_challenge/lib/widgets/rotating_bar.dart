@@ -59,33 +59,37 @@ class _RotatingBarState extends State<RotatingBar> {
               onScaleEnd: (_) => widget.getBackCenter != null
                   ? widget.getBackCenter ? getBackCenter() : {}
                   : {},
-              child: Container(
-                constraints: BoxConstraints.tightFor(height: 200, width: 200),
-                decoration: BoxDecoration(
-                  color: Colors.white.withOpacity(0.3),
-                  shape: BoxShape.circle,
-                ),
-                child: Stack(
-                  children: <Widget>[
-                    currentOffset != null
-                        ? Positioned(
-                            top: currentOffset.dy - 100,
-                            left: currentOffset.dx - 100,
-                            child: Padding(
-                              padding: const EdgeInsets.all(32.0),
-                              child: Container(
-                                height: 30,
-                                width: 30,
-                                decoration: BoxDecoration(
-                                  shape: BoxShape.circle,
-                                  image: DecorationImage(
-                                      image: ExactAssetImage(
-                                          'assets/icon_control_ctrl_origin.png')),
+              child: ClipRRect(
+                borderRadius: BorderRadius.circular(100.0),
+                clipBehavior: Clip.antiAlias,
+                child: Container(
+                  constraints: BoxConstraints.tightFor(height: 200, width: 200),
+                  decoration: BoxDecoration(
+                    color: Colors.white.withOpacity(0.3),
+                    shape: BoxShape.circle,
+                  ),
+                  child: Stack(
+                    children: <Widget>[
+                      currentOffset != null
+                          ? Positioned(
+                              top: currentOffset.dy - 100,
+                              left: currentOffset.dx - 100,
+                              child: Padding(
+                                padding: const EdgeInsets.all(32.0),
+                                child: Container(
+                                  height: 30,
+                                  width: 30,
+                                  decoration: BoxDecoration(
+                                    shape: BoxShape.circle,
+                                    image: DecorationImage(
+                                        image: ExactAssetImage(
+                                            'assets/icon_control_ctrl_origin.png')),
+                                  ),
                                 ),
-                              ),
-                            ))
-                        : Container()
-                  ],
+                              ))
+                          : Container()
+                    ],
+                  ),
                 ),
               ),
             ),
