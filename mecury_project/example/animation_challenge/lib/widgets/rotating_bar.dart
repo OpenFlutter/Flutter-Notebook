@@ -19,7 +19,9 @@ class RotatingBar extends StatefulWidget {
   final bool getBackCenter;
 
   RotatingBar(
-      {this.getAngle,
+      {
+      @required
+      this.getAngle,
       @required this.dy,
       @required this.dx,
       this.style,
@@ -158,6 +160,8 @@ class _RotatingBarState extends State<RotatingBar> {
 
 //  这两句话能够将触摸位置转化为边缘，达到旋钮的效果
     final centerOffset = getCenterOffset(_key);
+
+    //控制触摸方式
     if (widget.style == null) {
       currentOffset = changeOffset(centerOffset.dx, currentTapOffset.dx,
           centerOffset.dy, currentTapOffset.dy);
@@ -167,11 +171,21 @@ class _RotatingBarState extends State<RotatingBar> {
           : currentOffset = changeOffset(centerOffset.dx, currentTapOffset.dx,
               centerOffset.dy, currentTapOffset.dy);
     }
+
+    //获得旋转角度
     if (widget.getAngle != null) {
       double angle = getAngle(centerOffset.dx, currentTapOffset.dx,
           centerOffset.dy, currentTapOffset.dy);
       widget.getAngle(angle);
     }
+
+    //防止触摸超出界面
+    double spacing = sqrt((centerOffset.dx-currentTapOffset.dx)*(centerOffset.dx-currentTapOffset.dx)+
+        (centerOffset.dy-currentTapOffset.dy)*(centerOffset.dy-currentTapOffset.dy));
+    if(spacing>90) currentOffset = changeOffset(centerOffset.dx, currentTapOffset.dx,
+        centerOffset.dy, currentTapOffset.dy);
+
+    //刷新控制点位置
     setState(() {});
   }
 }
