@@ -70,6 +70,7 @@ Copy and paste the URL under a single item into the following one, the download 
 - [a beautiful flutter component library](https://github.com/samarthagarwal/FlutterScreens)
 - [Flutter application collection](https://itsallwidgets.com/)
 - [More than 100 pages in this beautiful app](https://github.com/nb312/flutter-ui-nice)
+- [HistoryOfEverything ———— a flutter app was shown on flutter live 2018](https://github.com/2d-inc/HistoryOfEverything)
 
 ## My Blog
 https://juejin.im/user/5b5d45f4e51d453526175c06/posts
