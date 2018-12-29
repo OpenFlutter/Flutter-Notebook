@@ -2,6 +2,8 @@
 ## 简介
 flutter UI挑战【持续更新中】
 ## 样例
+### [模拟微博/twitter点击回到顶部效果](https://github.com/OpenFlutter/Flutter-Notebook/blob/master/mecury_project/example/animation_challenge/lib/screens/scroll_back_to_top_demo.dart)
+![](https://user-gold-cdn.xitu.io/2018/12/29/167f8ed6376e4390?w=316&h=567&f=gif&s=1026294)
 ### [旋转按钮，且能够获取旋转角度0-360](https://github.com/OpenFlutter/Flutter-Notebook/blob/master/mecury_project/example/animation_challenge/lib/widgets/rotating_bar.dart)
 ![](https://user-gold-cdn.xitu.io/2018/12/22/167d4ab0e4d74da0?w=317&h=568&f=gif&s=119730)
 ![](https://user-gold-cdn.xitu.io/2018/12/22/167d4ab7a4e29164?w=318&h=567&f=gif&s=110184)
