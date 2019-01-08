@@ -66,6 +66,7 @@ Copy and paste the URL under a single item into the following one, the download 
 - [BLoC Provider](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/bloc_provider_pattern) 
 
 ### Others
+- [flutter common widgets app create by alibaba](https://github.com/alibaba/flutter-common-widgets-app)
 - [GDD2018 latest Flutter preview2 widget experience](https://github.com/Vadaski/Flutter-Notebook/tree/master/mecury_project/example/release_preview2)
 - [Flutter Challenge](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/animation_challenge)
 - [a beautiful flutter component library](https://github.com/samarthagarwal/FlutterScreens)
