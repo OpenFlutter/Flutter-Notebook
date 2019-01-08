@@ -1,7 +1,9 @@
 # reorderble_listview_demo
 
-A new Flutter project.
-
+## 简介
+用户可以通过拖动以交互方式重新排序的项目的列表
+## 样例
+![](https://user-gold-cdn.xitu.io/2019/1/8/1682d5ade551dd52?w=315&h=569&f=gif&s=1647024)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
