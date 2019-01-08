@@ -63,6 +63,7 @@ flutetr_note_book有许多flutter相关功能demo的集合，它能够帮助您�
 - [BLoC Provider模式](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/bloc_provider_pattern) 
 
 ### 其他
+- [flutter 菜鸟 APP，包含常用 flutter 组件的中文文档与 demo 演示](https://github.com/alibaba/flutter-common-widgets-app)
 - [GDD2018最新Flutter preview2 widget体验](https://github.com/Vadaski/Flutter-Notebook/tree/master/mecury_project/example/release_preview2)
 - [Flutter Challenge](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/animation_challenge)【持续更新中】
 - [一个漂亮的flutter组件库](https://github.com/samarthagarwal/FlutterScreens)
