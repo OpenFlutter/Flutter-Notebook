@@ -25,6 +25,7 @@ flutetr_note_book有许多flutter相关功能demo的集合，它能够帮助您�
 - [可展开控件 expansion系列](https://github.com/OpenFlutter/Flutter-Notebook/blob/master/mecury_project/example/expansion_demo)
 - [可滑动控件Sliver系列](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/sliver_demo)
 - [使用贝塞尔二阶曲线切割图像](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/clipper_demo)
+- [用户可以通过拖动以交互方式重新排序的项目的列表](https://github.com/OpenFlutter/Flutter-Notebook/blob/master/mecury_project/example/reorderble_listview_demo/)
 
 #### 功能
 - [返回上一页时弹出提示信息](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/will_pop_scope_demo)
