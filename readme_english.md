@@ -67,6 +67,7 @@ Copy and paste the URL under a single item into the following one, the download 
 
 ### Others
 - [flutter common widgets app create by alibaba](https://github.com/alibaba/flutter-common-widgets-app)
+- [flutter widget of the week](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/flutter_widget_of_the_week)
 - [GDD2018 latest Flutter preview2 widget experience](https://github.com/Vadaski/Flutter-Notebook/tree/master/mecury_project/example/release_preview2)
 - [Flutter Challenge](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/animation_challenge)
 - [a beautiful flutter component library](https://github.com/samarthagarwal/FlutterScreens)
