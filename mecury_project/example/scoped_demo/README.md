@@ -12,7 +12,6 @@ flutter中使用树来构建UI。data也就会在Widget tree中流动。Scoped�
 ## 更多
 - 一个更加完整的例子 from google https://github.com/flutter/samples/tree/master/shrine
 - 掘金教程：https://juejin.im/post/5b97fa0d5188255c5546dcf8
-- 这里有一个使用Scoped共享状态的复杂APP案例https://github.com/Vadaski/new_trend
 - 遇到了任何问题欢迎联系1652219550a@gmail.com
 ## Getting Started
 
