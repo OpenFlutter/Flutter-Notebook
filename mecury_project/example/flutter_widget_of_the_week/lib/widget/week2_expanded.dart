@@ -16,15 +16,21 @@ class Week2 extends StatelessWidget {
         Container(
           height: 200,
           color: Colors.pinkAccent,
+          alignment: Alignment.center,
+          child: Text('01'),
         ),Expanded(
           flex: 3,
           child: Container(
             color: Colors.greenAccent,
+            alignment: Alignment.center,
+            child: Text('02'),
           ),
         ),Expanded(
           flex: 1,
           child: Container(
             color: Colors.pinkAccent,
+            alignment: Alignment.center,
+            child: Text('03'),
           ),
         ),
       ],
