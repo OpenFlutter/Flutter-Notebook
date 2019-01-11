@@ -4,7 +4,7 @@
 ## 视频链接
 https://www.youtube.com/watch?v=lkF0TQJO0bA&list=PLOU2XLYxmsIL0pH0zWe_ZOHgGhZ7UasUE
 
-国内可看[bilibili](https://www.bilibili.com/video/av32706448) 有人搬运
+国内可看[bilibili](https://www.bilibili.com/video/av40410258) 有人搬运,带中文字幕
 ## 样例
 ### week1
 ![](https://user-gold-cdn.xitu.io/2019/1/10/1683734a3f89fe5c?w=323&h=571&f=png&s=15733)
