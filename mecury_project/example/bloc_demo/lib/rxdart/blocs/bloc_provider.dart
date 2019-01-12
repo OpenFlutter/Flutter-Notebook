@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:bloc_demo/rxdart/blocs/count_bloc.dart';
 
 class BlocProvider extends InheritedWidget {
-  CountBLoC bLoC = CountBLoC();
+  final CountBLoC bLoC = CountBLoC();
 
   BlocProvider({Key key, Widget child}) : super(key: key, child: child);
 
