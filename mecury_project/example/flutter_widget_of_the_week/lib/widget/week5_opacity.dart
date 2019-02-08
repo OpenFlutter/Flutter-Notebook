@@ -20,8 +20,7 @@ class Week5 extends StatelessWidget {
           child: Container(
             height: 300,
             width: 300,
-            child: Image.network(
-                'https://www.patiliyo.com/wp-content/uploads/2016/10/kasli-kedi-patiliyo-8.jpg'),
+            child: Image.asset('assets/myimage.jpg'),
           ),
         ),
         Center(
