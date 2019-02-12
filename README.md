@@ -43,6 +43,7 @@ flutetr_note_book有许多flutter相关功能demo的集合，它能够帮助您�
 
 ### 优秀第三方库
 - [闲鱼混合栈管理框架](https://github.com/alibaba-flutter/hybrid_stack_manager)
+- [Agora RTC SDKs 音视频通话](https://github.com/AgoraIO/Flutter-SDK)
 - [应用介绍页——slider](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/slider_screen)
 - [应用介绍页——intro_view](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/intro_views)
 - [从本地相册选取多张图片](https://github.com/Vadaski/Flutter-Notebook/blob/master/mecury_project/example/load_multi_image)
