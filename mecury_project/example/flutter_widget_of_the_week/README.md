@@ -56,3 +56,5 @@ https://www.youtube.com/watch?v=lkF0TQJO0bA&list=PLOU2XLYxmsIL0pH0zWe_ZOHgGhZ7Ua
 ![](https://user-gold-cdn.xitu.io/2019/2/8/168cd2e5a1704a25?w=361&h=745&f=gif&s=44493)
 ### week25
 ![](https://user-gold-cdn.xitu.io/2019/2/8/168cd2e75e9f380c?w=360&h=745&f=gif&s=17922)
+### week26
+![](https://user-gold-cdn.xitu.io/2019/2/15/168efd451a3ccc29?w=367&h=742&f=gif&s=20851)
