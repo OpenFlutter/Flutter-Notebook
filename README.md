@@ -74,6 +74,9 @@ flutetr_note_book有许多flutter相关功能demo的集合，它能够帮助您�
 - [flutter应用收集 MADE BY THE FLUTTER社区](https://itsallwidgets.com/)
 - [HistoryOfEverything ———— flutter live上展示的精美应用现已开源](https://github.com/2d-inc/HistoryOfEverything)
 
+### 书
+- [Flutter in Action](https://github.com/flutterchina/flutter-in-action)
+
 所有demo都最简化，尽量保证只与当前功能有关。每个demo文件代码在100行左右，十分适合新手阅读。
 #### 更多请进入mecury_project/example中寻找。
 ## 我的掘金主页
