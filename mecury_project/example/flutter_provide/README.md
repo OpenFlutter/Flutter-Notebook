@@ -1,6 +1,8 @@
 # flutter_provide
+Provide是Google官方推出的状态管理模式，更多请访问：https://github.com/google/flutter-provide
 
-A simple framework for state management in Flutter.
+## 样例
+![](https://user-gold-cdn.xitu.io/2019/2/20/1690aee3246a13ec?w=371&h=742&f=gif&s=316988)
 
 ## Getting Started
 
