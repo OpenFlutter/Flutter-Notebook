@@ -39,7 +39,7 @@ class SearchBarDelegate extends SearchDelegate<String> {
 
   @override
   Widget buildResults(BuildContext context) {
-    return Container(
+    return Center(child: Container(
       width: 100.0,
       height: 100.0,
       child: Card(
@@ -48,7 +48,7 @@ class SearchBarDelegate extends SearchDelegate<String> {
           child: Text(query),
         ),
       ),
-    );
+    ),);
   }
 
   @override
@@ -59,6 +59,9 @@ class SearchBarDelegate extends SearchDelegate<String> {
     return ListView.builder(
         itemCount: suggestionList.length,
         itemBuilder: (context, index) => ListTile(
+
+          onTap: (){showResults(context);},
+
               title: RichText(
                   text: TextSpan(
                       text: suggestionList[index].substring(0, query.length),
