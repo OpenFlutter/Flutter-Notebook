@@ -7,12 +7,12 @@
  */
 import 'package:flutter/material.dart';
 
-class RecordableListViewDemo extends StatefulWidget {
+class ReorderableListViewDemo extends StatefulWidget {
   @override
-  _RecordableListViewDemoState createState() => _RecordableListViewDemoState();
+  _ReorderableListViewDemoState createState() => _ReorderableListViewDemoState();
 }
 
-class _RecordableListViewDemoState extends State<RecordableListViewDemo> {
+class _ReorderableListViewDemoState extends State<ReorderableListViewDemo> {
   List<String> names = [
     "LeBron James",
     "Kevin Durant",
@@ -31,12 +31,9 @@ class _RecordableListViewDemoState extends State<RecordableListViewDemo> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: ReorderableListView(
-        header: PreferredSize(
-          preferredSize: Size.fromHeight(24),
-          child: AppBar(title: Text('RecordableListViewDemo')),
-        ),
-        children: names.map((name) => _buildCard(name)).toList(),
-        onReorder: _onRecorder,
+        header: AppBar(title: Text('ReorderableListViewDemo')),
+        children: names.map(_buildCard).toList(),
+        onReorder: _onReorder,
       ),
     );
   }
@@ -60,7 +57,7 @@ class _RecordableListViewDemoState extends State<RecordableListViewDemo> {
     );
   }
 
-  _onRecorder(int oldIndex, int newIndex) {
+  _onReorder(int oldIndex, int newIndex) {
     if (oldIndex < newIndex) newIndex = newIndex - 1;
     var name = names.removeAt(oldIndex);
     names.insert(newIndex, name);
