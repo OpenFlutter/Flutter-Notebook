@@ -42,6 +42,8 @@ Copy and paste the URL under a single item into the following one, the download 
 - [tools tip widget](https://github.com/OpenFlutter/Flutter-Notebook/blob/master/mecury_project/example/tool_tips_demo)
 - [draggable widget](https://github.com/OpenFlutter/Flutter-Notebook/blob/master/mecury_project/example/draggable_demo/)
 - [remove the ripple effect of the click event](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/without_splash_color)
+- [cover the current page with a new overlay](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/overlay) 
+- [jump into another with schema in flutter](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/schema_example)
 
 ### Excellent Flutter Pub Librarys
 - [hybrid stack management framework](https://github.com/alibaba-flutter/hybrid_stack_manager)
