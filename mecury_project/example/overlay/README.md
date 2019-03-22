@@ -8,6 +8,7 @@ Overlay能够帮助你更加优雅高效的完成屏幕叠加。或者做一些�
 ## 样例
 ![](https://user-gold-cdn.xitu.io/2018/11/5/166e3d3edc21b8a2?w=359&h=717&f=gif&s=112069)
 ![](https://user-gold-cdn.xitu.io/2018/11/5/166e3d45ecb9170c?w=347&h=717&f=gif&s=72443)
+![](https://user-gold-cdn.xitu.io/2019/3/22/169a367b42a37ca3?w=323&h=689&f=gif&s=242163)
 
 ## Getting Started
 
