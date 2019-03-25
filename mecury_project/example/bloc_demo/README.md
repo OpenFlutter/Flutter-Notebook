@@ -10,3 +10,5 @@
 请安装在真机上并打开科学上网工具才能正确访问hacker news api
 
 [hacker news app](https://github.com/Vadaski/hacker_news_app)
+### 项目结构（仅供参考）
+![](https://user-gold-cdn.xitu.io/2019/3/25/169b30a3b148d14a?w=609&h=575&f=png&s=77314)
