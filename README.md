@@ -39,7 +39,8 @@ flutetr_note_book有许多flutter相关功能demo的集合，它能够帮助您�
 - [轻量级操作提示控件toolstip](https://github.com/OpenFlutter/Flutter-Notebook/blob/master/mecury_project/example/tool_tips_demo)
 - [可拖动组件draggable](https://github.com/OpenFlutter/Flutter-Notebook/blob/master/mecury_project/example/draggable_demo/)
 - [去掉点击事件的水波纹效果](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/without_splash_color)
-- [在当前页面上覆盖新的组件overlay](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/overlay) 
+- [在当前页面上覆盖新的组件overlay](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/overlay)
+- [在不同页面传递事件EventBus](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/event_bus_demo)
 
 ### 优秀第三方库
 - [闲鱼混合栈管理框架](https://github.com/alibaba-flutter/hybrid_stack_manager)
