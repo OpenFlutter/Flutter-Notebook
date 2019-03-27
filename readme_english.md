@@ -42,7 +42,13 @@ Copy and paste the URL under a single item into the following one, the download 
 - [tools tip widget](https://github.com/OpenFlutter/Flutter-Notebook/blob/master/mecury_project/example/tool_tips_demo)
 - [draggable widget](https://github.com/OpenFlutter/Flutter-Notebook/blob/master/mecury_project/example/draggable_demo/)
 - [remove the ripple effect of the click event](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/without_splash_color)
-
+- [pass event between pages——EventBus](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/event_bus_demo)
+#### Animation
+- [basic animations](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/animation_demo)
+- [amazing hero animation](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/hero_demo)
+- [AnimatedContainer widget](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/animated_container)
+- [AnimatedCrossFade widget](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/animated_cross_fade)
+- [ripple route transition animation](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/ripple_animation)
 ### Excellent Flutter Pub Librarys
 - [hybrid stack management framework](https://github.com/alibaba-flutter/hybrid_stack_manager)
 - [Flutter wrapper around the Agora RTC SDKs for Android and iOS](https://github.com/AgoraIO/Flutter-SDK)
@@ -53,12 +59,6 @@ Copy and paste the URL under a single item into the following one, the download 
 - [picture gestures zoom in and out](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/pinch_zoom_image_demo)
 - [progress indicator animation——Spinkit](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/spinkit_animation)
 - [cool ui](https://github.com/Im-Kevin/cool_ui)
-
-### Animation
-- [basic animations](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/animation_demo)
-- [amazing hero animation](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/hero_demo)
-- [AnimatedContainer widget](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/animated_container)
-- [AnimatedCrossFade widget](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/animated_cross_fade)
 
 ### State Management
 - [Scoped_Model](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/scoped_demo)
