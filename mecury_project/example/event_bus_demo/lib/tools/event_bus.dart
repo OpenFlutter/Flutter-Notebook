@@ -12,11 +12,10 @@ class EventBus {
   /// the listeners at a later time, after the code creating the event has
   /// completed.
   ///
-  EventBus({bool sync = false, StreamController controller}) {
-    _streamController = controller == null
-        ? StreamController.broadcast(sync: sync)
-        : controller;
-  }
+  EventBus({bool sync = false})
+      : _streamController = StreamController.broadcast(sync: sync);
+
+  EventBus.custom(StreamController controller) : _streamController = controller;
 
   /// Listens for events of Type [T] and its subtypes.
   ///
