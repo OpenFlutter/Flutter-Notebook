@@ -27,7 +27,6 @@ flutetr_note_book有许多flutter相关功能demo的集合，它能够帮助您�
 - [可滑动控件Sliver系列](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/sliver_demo)
 - [使用贝塞尔二阶曲线切割图像](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/clipper_demo)
 - [用户可以通过拖动以交互方式重新排序的项目的列表](https://github.com/OpenFlutter/Flutter-Notebook/blob/master/mecury_project/example/reorderble_listview_demo/)
-- [Ripple路由转换动画](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/ripple_animation)
 
 #### 功能
 - [返回上一页时弹出提示信息](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/will_pop_scope_demo)
@@ -43,6 +42,14 @@ flutetr_note_book有许多flutter相关功能demo的集合，它能够帮助您�
 - [在当前页面上覆盖新的组件overlay](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/overlay)
 - [在不同页面传递事件EventBus](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/event_bus_demo)
 
+
+#### 动画
+- [基本动画样例](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/animation_demo)
+- [神奇的Hero动画](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/hero_demo)
+- [AnimatedContainer](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/animated_container)
+- [AnimatedCrossFade](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/animated_cross_fade)
+- [Ripple路由转换动画](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/ripple_animation)
+
 ### 优秀第三方库
 - [闲鱼混合栈管理框架](https://github.com/alibaba-flutter/hybrid_stack_manager)
 - [Agora RTC SDKs 音视频通话](https://github.com/AgoraIO/Flutter-SDK)
@@ -54,11 +61,6 @@ flutetr_note_book有许多flutter相关功能demo的集合，它能够帮助您�
 - [一个很棒的等待动画库——Spinkit](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/spinkit_animation)
 - [一些常用ui库——cool_ui](https://github.com/Im-Kevin/cool_ui)
 
-### 动画
-- [基本动画样例](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/animation_demo)
-- [神奇的Hero动画](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/hero_demo)
-- [AnimatedContainer](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/animated_container)
-- [AnimatedCrossFade](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/animated_cross_fade)
 
 ### 状态管理
 - [Scoped_Model](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/scoped_demo)
