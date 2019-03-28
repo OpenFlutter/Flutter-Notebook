@@ -13,7 +13,6 @@ class FirstScreen extends StatelessWidget {
           nextScreen: SecondScreen(),
           color: Colors.blueAccent,
           splashColor: Colors.blueAccent,
-//          rangeFactor: 3,
         ),
       ),
       floatingActionButton: NavigateButton(
@@ -22,6 +21,7 @@ class FirstScreen extends StatelessWidget {
         splashColor: Colors.white,
         iconColor: Colors.black,
         heroTag: 'blue',
+        rangeFactor: 2.4,
       ),
     );
   }

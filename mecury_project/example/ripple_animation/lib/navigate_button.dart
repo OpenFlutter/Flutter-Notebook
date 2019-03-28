@@ -8,7 +8,7 @@ class NavigateButton extends StatefulWidget {
   final Color iconColor;
   final Object heroTag;
   final Widget nextScreen;
-  final int rangeFactor;
+  final double rangeFactor;
 
   NavigateButton(
       {IconData icon = Icons.navigate_next,
@@ -16,7 +16,7 @@ class NavigateButton extends StatefulWidget {
       Color splashColor = Colors.white,
       Color iconColor = Colors.white,
       Object heroTag = '',
-      int rangeFactor = 2,
+      double rangeFactor = 2.5,
       @required this.nextScreen})
       : icon = icon,
         color = color,
