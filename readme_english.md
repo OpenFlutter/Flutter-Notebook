@@ -63,7 +63,9 @@ Copy and paste the URL under a single item into the following one, the download 
 - [Scoped_Model](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/scoped_demo)
 - [Redux](https://github.com/Vadaski/Flutter-Notebook/tree/master/mecury_project/example/redux_demo)
 - [BLoC](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/bloc_demo)
-- [BLoC Provider](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/bloc_provider_pattern) 
+- [BLoC Provider](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/bloc_provider_pattern)
+- [Google-Provide](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/flutter_provide)
+- [fish-redux](https://github.com/alibaba/fish-redux)
 
 ### Others
 - [flutter common widgets app create by alibaba](https://github.com/alibaba/flutter-common-widgets-app)
