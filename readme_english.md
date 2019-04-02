@@ -50,6 +50,7 @@ Copy and paste the URL under a single item into the following one, the download 
 - [AnimatedCrossFade widget](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/animated_cross_fade)
 - [ripple route transition animation](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/ripple_animation)
 ### Excellent Flutter Pub Librarys
+- [google charts📈](https://github.com/google/charts)
 - [hybrid stack management framework from alibaba——flutter boost](https://github.com/alibaba/flutter_boost)
 - [Flutter wrapper around the Agora RTC SDKs for Android and iOS](https://github.com/AgoraIO/Flutter-SDK)
 - [application introduction page——slider](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/slider_screen)
