@@ -60,7 +60,9 @@ class SearchBarDelegate extends SearchDelegate<String> {
         itemCount: suggestionList.length,
         itemBuilder: (context, index) => ListTile(
 
-          onTap: (){showResults(context);},
+          onTap: (){
+            query = suggestionList[index];
+            showResults(context);},
 
               title: RichText(
                   text: TextSpan(
