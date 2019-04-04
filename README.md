@@ -51,6 +51,7 @@ flutetr_note_book有许多flutter相关功能demo的集合，它能够帮助您�
 - [Ripple路由转换动画](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/ripple_animation)
 
 ### 优秀第三方库
+- [Awesome Flutter Packages](https://github.com/leisim/awesome-flutter-packages)
 - [图表库——google charts📈](https://github.com/google/charts)
 - [闲鱼混合栈管理框架——flutter_boost](https://github.com/alibaba/flutter_boost)
 - [Agora RTC SDKs 音视频通话](https://github.com/AgoraIO/Flutter-SDK)
