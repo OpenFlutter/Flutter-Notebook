@@ -69,6 +69,7 @@ Copy and paste the URL under a single item into the following one, the download 
 - [fish-redux](https://github.com/alibaba/fish-redux)
 
 ### Others
+- [Awesome Flutter Packages](https://github.com/leisim/awesome-flutter-packages)
 - [flutter common widgets app create by alibaba](https://github.com/alibaba/flutter-common-widgets-app)
 - [flutter widget of the week](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/flutter_widget_of_the_week)
 - [GDD2018 latest Flutter preview2 widget experience](https://github.com/Vadaski/Flutter-Notebook/tree/master/mecury_project/example/release_preview2)
