@@ -7,7 +7,7 @@
 
 详情可以查看[这个issue](https://github.com/OpenFlutter/Flutter-Notebook/issues/3)
 ## 样例
-![](https://user-gold-cdn.xitu.io/2018/10/10/1665e8e77413e664?w=377&h=756&f=gif&s=95754)
+![](../../../image/bloc_provider.png)
 
 ## Getting Started
 

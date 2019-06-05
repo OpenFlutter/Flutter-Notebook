@@ -3,7 +3,7 @@
 使用Scoped共享状态的demo，让APP不同的页面也能同步状态。
 详细用法请参考https://pub.dartlang.org/packages/scoped_model#-readme-tab-
 ## 样例
-![](https://user-gold-cdn.xitu.io/2018/9/11/165c864da39b5296?w=362&h=640&f=gif&s=270132)
+![](../../../image/scoped_model.png)
 ## 实现原理
 flutter中使用树来构建UI。data也就会在Widget tree中流动。Scoped的思想就是把这些共享状态提升到顶层。
 - 需要共享的状态需要继承至Model类

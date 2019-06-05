@@ -4,7 +4,7 @@
 
 其中原理及用法已写在注释中
 ## 样例
-![](https://user-gold-cdn.xitu.io/2018/9/27/1661957ae7b06733?w=362&h=640&f=gif&s=16349)
+![](../../../image/frosted.png)
 
 ## Getting Started
 

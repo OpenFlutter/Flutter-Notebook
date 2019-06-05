@@ -12,13 +12,13 @@
 main函数中，import的是当前动画样例，其他被注释起来了，只需更改注释即可。
 
 
-![](https://user-gold-cdn.xitu.io/2018/9/4/165a02b62048a355?w=246&h=498&f=gif&s=64464)
-![](https://user-gold-cdn.xitu.io/2018/9/4/165a035681c0978c?w=246&h=498&f=gif&s=48394)
-![](https://user-gold-cdn.xitu.io/2018/9/4/165a02eed2d89b3b?w=246&h=498&f=gif&s=42006)
-![](https://user-gold-cdn.xitu.io/2018/9/4/165a03082955a07f?w=246&h=498&f=gif&s=42967)
-![](https://user-gold-cdn.xitu.io/2018/9/4/165a031c9a65f0c9?w=246&h=498&f=gif&s=64208)
-![](https://user-gold-cdn.xitu.io/2018/9/4/165a032fafb5fa50?w=246&h=498&f=gif&s=15581)
-![](https://user-gold-cdn.xitu.io/2018/9/4/165a034555bb8468?w=246&h=498&f=gif&s=111510)
+![](../../../image/slide_ani.png)
+![](../../../image/delay_ani.png)
+![](/workspace/flutter/Flutter-Notebook/image/conbine_ani.png)
+![](../../../image/scal_ani.png)
+![](../../../image/border_redis_ani.png)
+![](../../../image/num_ani.png)
+![](../../../image/hide_ani.png)
 
 A new Flutter application with beautiful animation
 

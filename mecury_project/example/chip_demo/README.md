@@ -3,15 +3,15 @@
 chip系列系列demo，组件用法已在注释中给出
 ## 样例
 ### chip
-![](https://user-gold-cdn.xitu.io/2018/10/10/16659d16a46199da?w=319&h=572&f=gif&s=29345)
+![](../../../image/chip.png)
 ### input chip
-![](https://user-gold-cdn.xitu.io/2018/10/10/16659d159f8f81ca?w=318&h=569&f=gif&s=60229)
+![](../../../image/input_chip.png)
 ### choice chip
-![](https://user-gold-cdn.xitu.io/2018/10/10/16659d148bf2b531?w=320&h=572&f=gif&s=35191)
+![](../../../image/chioce_chip.png)
 ### filter chip
-![](https://user-gold-cdn.xitu.io/2018/10/10/16659d127fe021d8?w=320&h=569&f=gif&s=41778)
+![](../../../image/filter_chip.png)
 ### action chip
-![](https://user-gold-cdn.xitu.io/2018/10/10/16659d10b7bbb0c2?w=322&h=571&f=gif&s=29888)
+![](../../../image/action_chip.png)
 
 ## Getting Started
 

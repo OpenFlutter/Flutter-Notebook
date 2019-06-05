@@ -9,5 +9,5 @@
 仓库地址：https://pub.dartlang.org/packages/event_bus
 
 ## 样例
-![](https://user-gold-cdn.xitu.io/2019/3/26/169ba73dcfd35b2d?w=327&h=681&f=gif&s=204938)
+![](../../../image/event_bus.png)
 

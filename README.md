@@ -1,5 +1,5 @@
 ### [中文版](https://github.com/OpenFlutter/Flutter-Notebook/blob/master/README.md) | [English](https://github.com/OpenFlutter/Flutter-Notebook/blob/master/readme_english.md)
-![](https://user-gold-cdn.xitu.io/2019/3/28/169c288b6d3b9cb2?w=943&h=170&f=png&s=20486)
+![](/workspace/flutter/Flutter-Notebook/image/logo.png)
 ## flutter_notebook有什么
 flutetr_note_book有许多flutter相关功能demo的集合，它能够帮助您快速学习一些零碎的知识，本项目将会不定期更新。
 
@@ -94,37 +94,3 @@ flutetr_note_book有许多flutter相关功能demo的集合，它能够帮助您�
 https://juejin.im/user/5b5d45f4e51d453526175c06/posts
 
 欢迎关注
-
-## 样例
-![](https://user-gold-cdn.xitu.io/2018/9/10/165c24b154c98218?w=362&h=642&f=gif&s=739273)
-![](https://user-gold-cdn.xitu.io/2018/9/10/165c24b3adbbd5aa?w=362&h=640&f=gif&s=121427)
-![](https://user-gold-cdn.xitu.io/2018/9/10/165c24b7bbd01af7?w=362&h=640&f=gif&s=61838)
-![](https://user-gold-cdn.xitu.io/2018/9/10/165c24b9277db951?w=362&h=640&f=gif&s=55227)
-![](https://user-gold-cdn.xitu.io/2018/9/10/165c24ba112a8fe8?w=362&h=640&f=gif&s=19336)
-![](https://user-gold-cdn.xitu.io/2018/9/10/165c24bb474fcf1c?w=362&h=640&f=gif&s=41214)
-![](https://user-gold-cdn.xitu.io/2018/9/10/165c24bc512c548a?w=362&h=640&f=gif&s=111429)
-![](https://user-gold-cdn.xitu.io/2018/9/10/165c24bd266e82ab?w=362&h=640&f=gif&s=13498)
-![](https://user-gold-cdn.xitu.io/2018/9/7/165b34ca822a8f54?w=362&h=642&f=gif&s=4669741)
-![](https://user-gold-cdn.xitu.io/2018/9/7/165b3542f724d46a?w=362&h=642&f=gif&s=3373834)
-![](https://user-gold-cdn.xitu.io/2018/9/9/165ba4afd401fc53?w=362&h=642&f=gif&s=3125329)
-![](https://user-gold-cdn.xitu.io/2018/9/9/165bd164ce03a359?w=362&h=642&f=gif&s=549629)
-![](https://user-gold-cdn.xitu.io/2018/9/9/165bddae47c84b18?w=362&h=642&f=gif&s=486901)
-![](https://user-gold-cdn.xitu.io/2018/11/9/166f747e73996d03?w=316&h=570&f=gif&s=430201)
-![](https://user-gold-cdn.xitu.io/2018/9/12/165cd5463f99cb2b?w=362&h=640&f=gif&s=627463)
-![](https://user-gold-cdn.xitu.io/2018/9/12/165cd82770ff732e?w=362&h=640&f=gif&s=445737)
-![](https://user-gold-cdn.xitu.io/2018/9/13/165cece8f2ad7e58?w=362&h=640&f=gif&s=158087)
-![](https://user-gold-cdn.xitu.io/2018/9/18/165ec5d14697b759?w=362&h=640&f=gif&s=459186)
-![](https://user-gold-cdn.xitu.io/2018/9/18/165ec5d3b3ef7b73?w=362&h=640&f=gif&s=503021)
-![](https://user-gold-cdn.xitu.io/2018/9/18/165ec5dac1810db3?w=362&h=640&f=gif&s=1824992)
-![](https://user-gold-cdn.xitu.io/2018/9/19/165f1adf1c7d81de?w=362&h=640&f=gif&s=3018323)
-![](https://user-gold-cdn.xitu.io/2018/9/20/165f533bf04bf291?w=362&h=640&f=gif&s=203698)
-![](https://user-gold-cdn.xitu.io/2018/9/21/165f7d7c790e6911?w=362&h=640&f=gif&s=172340)
-![](https://user-gold-cdn.xitu.io/2018/9/22/165fd35c8909a813?w=362&h=640&f=gif&s=1992085)
-![](https://user-gold-cdn.xitu.io/2018/9/22/165fd35f0d320ac1?w=362&h=640&f=gif&s=107991)
-![](https://user-gold-cdn.xitu.io/2018/9/21/165fab436c967dc5?w=362&h=640&f=gif&s=243539)
-![](https://user-gold-cdn.xitu.io/2018/9/21/165fab48becac4ad?w=362&h=640&f=gif&s=328637)
-![](https://user-gold-cdn.xitu.io/2018/9/22/1660146a6dacd36e?w=362&h=640&f=gif&s=336267)
-![](https://user-gold-cdn.xitu.io/2018/9/25/1660fcf60f384f63)
-![](https://user-gold-cdn.xitu.io/2018/9/29/16624073ba03bfbe?w=362&h=640&f=gif&s=855341)
-
-

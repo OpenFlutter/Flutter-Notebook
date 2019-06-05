@@ -6,7 +6,7 @@
 ## 注意
 由于是欢迎页，我们希望显示完了之后就不要再看到它了，所以我使用了Navigator.of(context).pushAndRemoveUntil进行路由导航。
 
-![](https://user-gold-cdn.xitu.io/2018/9/10/165c1f5b3b9e391f?w=362&h=642&f=gif&s=739273)
+![](../../../image/slider_screen.png)
 
 ## Getting Started
 

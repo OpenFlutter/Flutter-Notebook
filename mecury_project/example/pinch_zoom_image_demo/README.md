@@ -4,7 +4,7 @@
 
 它还支持cached_network_image。
 ## 样例
-![](https://user-gold-cdn.xitu.io/2018/9/28/1661dd49eae50cdd?w=360&h=634&f=gif&s=4231903)
+![](../../../image/pinch_zoom_image.png)
 ## Getting Started
 
 For help getting started with Flutter, view our online

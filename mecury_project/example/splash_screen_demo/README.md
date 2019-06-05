@@ -8,7 +8,7 @@
 通过animation.addStatusListener来检测动画是否播放完毕，完毕后push主页面并将该页面从路由中销毁。
 
 ## 样例
-![](https://user-gold-cdn.xitu.io/2018/9/19/165f1adf1c7d81de?w=362&h=640&f=gif&s=3018323)
+![](../../../image/splash_screen.png)
 
 ## Getting Started
 

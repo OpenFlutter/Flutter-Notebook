@@ -10,14 +10,14 @@ GDD2018新发布的Flutter preview2 widget体验
 
 最后，感谢彦博为这个demo提出非常棒的建议，segment control与action sheet已经改为较为合理的使用方式。
 ## 样例
-![](https://user-gold-cdn.xitu.io/2018/9/21/165f7d7c790e6911?w=362&h=640&f=gif&s=172340)
-![](https://user-gold-cdn.xitu.io/2018/9/22/165fd35c8909a813?w=362&h=640&f=gif&s=1992085)
-![](https://user-gold-cdn.xitu.io/2018/9/22/165fd35f0d320ac1?w=362&h=640&f=gif&s=107991)
-![](https://user-gold-cdn.xitu.io/2018/9/21/165f7d82c7a6c8e1?w=360&h=643&f=png&s=12551)
-![](https://user-gold-cdn.xitu.io/2018/9/21/165fab436c967dc5?w=362&h=640&f=gif&s=243539)
-![](https://user-gold-cdn.xitu.io/2018/9/21/165fab44f4e99390?w=362&h=640&f=gif&s=320930)
-![](https://user-gold-cdn.xitu.io/2018/9/21/165fab46cca581a7?w=362&h=640&f=gif&s=232271)
-![](https://user-gold-cdn.xitu.io/2018/9/21/165fab48becac4ad?w=362&h=640&f=gif&s=328637)
+![](../../../image/release_pw01.png)
+![](../../../image/release_pw02.png)
+![](../../../image/release_pw03.png)
+![](../../../image/release_pw04.png)
+![](../../../image/release_pw05.png)
+![](../../../image/release_pw06.png)
+![](../../../image/release_pw07.png)
+![](../../../image/release_pw08.png)
 ## Getting Started
 
 For help getting started with Flutter, view our online

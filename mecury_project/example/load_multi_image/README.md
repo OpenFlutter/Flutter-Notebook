@@ -4,9 +4,9 @@
 ## 依赖
 [multi_image_picker 2.2.10](https://pub.dartlang.org/packages/multi_image_picker#-readme-tab-)
 ## 样例
-![](https://user-gold-cdn.xitu.io/2018/9/23/16606c078d3fdede?w=360&h=634&f=gif&s=3330782)
-![](https://user-gold-cdn.xitu.io/2018/9/23/16606cbc4b774716?w=384&h=689&f=png&s=318691)
-![](https://user-gold-cdn.xitu.io/2018/9/23/16606cbd8efff357?w=397&h=699&f=png&s=275367)
+![](../../../image/load_muti.png)
+![](../../../image/load_muti2.png)
+![](../../../image/load_muti3.png)
 ## Getting Started
 
 For help getting started with Flutter, view our online

@@ -8,7 +8,7 @@ AnimationCrossFade能够让我们在两个不同的Widget中进行淡化过渡
 - SecondChild：第二个child Widget
 - crossFadeState：用于切换当前显示的是第一个childWidget还是第二个childWidget
 ## 样例
-![](https://user-gold-cdn.xitu.io/2018/10/5/16643fbd13070f66?w=355&h=636&f=gif&s=357056)
+![](../../../image/animated_cross_fade.png)
 
 ## Getting Started
 
