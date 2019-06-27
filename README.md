@@ -70,6 +70,7 @@ flutetr_note_book有许多flutter相关功能demo的集合，它能够帮助您�
 - [BLoC Provider模式](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/bloc_provider_pattern) 
 - [Google-Provide](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/flutter_provide)
 - [fish-redux](https://github.com/alibaba/fish-redux)
+- [Provider](https://github.com/OpenFlutter/Flutter-Notebook/blob/master/mecury_project/example/provider_example)
 
 ### 其他
 - [flutter 菜鸟 APP，包含常用 flutter 组件的中文文档与 demo 演示](https://github.com/alibaba/flutter-common-widgets-app)
