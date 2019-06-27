@@ -5,7 +5,7 @@ import 'counter_model.dart';
 class FirstScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    final counter = Provider.of<CounterModel>(context);
+    final counter = Provider.of<CounterModel>(context,);
     final textSize = Provider.of<int>(context);
 
     return Scaffold(

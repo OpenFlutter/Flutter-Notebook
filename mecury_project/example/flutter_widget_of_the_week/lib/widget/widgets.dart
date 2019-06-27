@@ -27,3 +27,4 @@ export 'week26_position.dart';
 export 'week27_animated_builder.dart';
 export 'week28_dismissible.dart';
 export 'week29_sizedbox.dart';
+export 'week30_value_listenable_builder.dart';
