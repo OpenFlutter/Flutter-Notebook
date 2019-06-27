@@ -67,6 +67,7 @@ Copy and paste the URL under a single item into the following one, the download 
 - [BLoC Provider](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/bloc_provider_pattern)
 - [Google-Provide](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/flutter_provide)
 - [fish-redux](https://github.com/alibaba/fish-redux)
+- [Provider](https://github.com/OpenFlutter/Flutter-Notebook/blob/master/mecury_project/example/provider_example)
 
 ### Others
 - [Awesome Flutter Packages](https://github.com/leisim/awesome-flutter-packages)
