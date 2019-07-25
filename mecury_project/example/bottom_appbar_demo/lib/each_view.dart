@@ -11,7 +11,10 @@ class _EachViewState extends State<EachView> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text(widget._title),),
+      appBar: AppBar(
+        title: Text(widget._title),
+        backgroundColor: Colors.lightBlueAccent,
+      ),
     );
   }
 }
