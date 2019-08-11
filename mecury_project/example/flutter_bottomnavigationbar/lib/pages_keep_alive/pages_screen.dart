@@ -21,6 +21,7 @@ class _PagesScreenState extends State<PagesScreen>
 
   @override
   Widget build(BuildContext context) {
+    super.build(context);
     return Scaffold(
       appBar: AppBar(
         title: Text('PagesScreen'),
