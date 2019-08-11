@@ -21,6 +21,7 @@ class _AirPlayScreenState extends State<AirPlayScreen>
 
   @override
   Widget build(BuildContext context) {
+    super.build(context);
     return Scaffold(
       appBar: AppBar(
         title: Text('AirPlayScreen'),
