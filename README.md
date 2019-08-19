@@ -73,6 +73,7 @@ flutetr_note_book有许多flutter相关功能demo的集合，它能够帮助您�
 - [Provider](https://github.com/OpenFlutter/Flutter-Notebook/blob/master/mecury_project/example/provider_example)
 
 ### 其他
+- [flutter-widget-livebook 实时查看各种 widget](https://flutter-widget-livebook.blankapp.org/basics/introduction/)
 - [flutter 菜鸟 APP，包含常用 flutter 组件的中文文档与 demo 演示](https://github.com/alibaba/flutter-common-widgets-app)
 - [flutter widget of the week 每周介绍一个widget，轻松学习flutter](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/flutter_widget_of_the_week)
 - [GDD2018最新Flutter preview2 widget体验](https://github.com/Vadaski/Flutter-Notebook/tree/master/mecury_project/example/release_preview2)
