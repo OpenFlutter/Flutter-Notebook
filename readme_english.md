@@ -70,6 +70,7 @@ Copy and paste the URL under a single item into the following one, the download 
 - [Provider](https://github.com/OpenFlutter/Flutter-Notebook/blob/master/mecury_project/example/provider_example)
 
 ### Others
+- [flutter-widget-livebook](https://flutter-widget-livebook.blankapp.org/basics/introduction/)
 - [Awesome Flutter Packages](https://github.com/leisim/awesome-flutter-packages)
 - [flutter common widgets app create by alibaba](https://github.com/alibaba/flutter-common-widgets-app)
 - [flutter widget of the week](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/flutter_widget_of_the_week)
