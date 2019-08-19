@@ -93,4 +93,5 @@ flutetr_note_book有许多flutter相关功能demo的集合，它能够帮助您�
 所有demo都最简化，尽量保证只与当前功能有关。每个demo文件代码在100行左右，十分适合新手阅读。
 #### 更多请进入mecury_project/example中寻找。
 ## [我的掘金主页](https://juejin.im/user/5b5d45f4e51d453526175c06/posts)
+## Stargazers over time
 [![Stargazers over time](https://starchart.cc/OpenFlutter/Flutter-Notebook.svg)](https://starchart.cc/OpenFlutter/Flutter-Notebook)
