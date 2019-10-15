@@ -43,6 +43,8 @@ Copy and paste the URL under a single item into the following one, the download 
 - [draggable widget](https://github.com/OpenFlutter/Flutter-Notebook/blob/master/mecury_project/example/draggable_demo/)
 - [remove the ripple effect of the click event](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/without_splash_color)
 - [pass event between pages——EventBus](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/event_bus_demo)
+- [custom navigator](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/navigator_example)
+
 #### Animation
 - [basic animations](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/animation_demo)
 - [amazing hero animation](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/hero_demo)
