@@ -41,6 +41,7 @@ flutetr_note_book有许多flutter相关功能demo的集合，它能够帮助您�
 - [去掉点击事件的水波纹效果](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/without_splash_color)
 - [在当前页面上覆盖新的组件overlay](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/overlay)
 - [在不同页面传递事件EventBus](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/event_bus_demo)
+- [自定义 Navigator](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/navigator_example)
 
 
 #### 动画
