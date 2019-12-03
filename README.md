@@ -1,7 +1,7 @@
 ### [中文版](https://github.com/OpenFlutter/Flutter-Notebook/blob/master/README.md) | [English](https://github.com/OpenFlutter/Flutter-Notebook/blob/master/readme_english.md)
 ![](./image/logo.png)
 ## flutter_notebook有什么
-flutetr_note_book有许多flutter相关功能demo的集合，它能够帮助您快速学习一些零碎的知识，本项目将会不定期更新。
+flutter_note_book有许多flutter相关功能demo的集合，它能够帮助您快速学习一些零碎的知识，本项目将会不定期更新。
 
 如果您觉得有用的话可以Watch该项目，之后更新会自动通知您。
 ## 收集更多优秀样例
