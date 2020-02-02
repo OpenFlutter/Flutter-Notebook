@@ -10,7 +10,7 @@ void main() {
   runApp(
     MultiProvider(providers: [
       Provider<int>(
-        builder: (_) => textSize,
+        create: (_) => textSize,
       ),
       ChangeNotifierProvider<CounterModel>.value(value: counter),
     ], child: MyApp()),
@@ -22,7 +22,27 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       theme: ThemeData.dark(),
-      home: FirstScreen(),
+      home: DefaultTabController(
+        length: 2,
+        child: Scaffold(
+          appBar: TabBar(tabs: [
+            Tab(
+              text: 'CounterDemo',
+              icon: Icon(Icons.create),
+            ),
+            Tab(
+              text: 'SelectorDemo',
+              icon: Icon(Icons.shopping_cart),
+            ),
+          ]),
+          body: TabBarView(
+            children: [
+              FirstScreen(),
+              GoodsListScreen(),
+            ],
+          ),
+        ),
+      ),
     );
   }
 }
