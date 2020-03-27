@@ -1,6 +1,9 @@
 import 'package:flutter/material.dart' show ChangeNotifier;
 
 class GoodsListProvider with ChangeNotifier {
+
+  bool shouldRebuild = false;
+
   List<Goods> _goodsList =
       List.generate(10, (index) => Goods(false, 'Goods No. $index'));
 
@@ -11,6 +14,16 @@ class GoodsListProvider with ChangeNotifier {
     var good = _goodsList[index];
     _goodsList[index] = Goods(!good.isCollection, good.goodsName);
     notifyListeners();
+  }
+
+  addAll(){
+    _goodsList.addAll(List.generate(10, (index)=>Goods(false, 'Goods No. $index')));
+    shouldRebuild = true;
+    notifyListeners();
+  }
+
+  rebuild(){
+    shouldRebuild = false;
   }
 }
 
