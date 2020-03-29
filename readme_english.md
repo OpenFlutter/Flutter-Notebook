@@ -54,6 +54,7 @@ Copy and paste the URL under a single item into the following one, the download 
 ### Excellent Flutter Pub Librarys
 - [google charts📈](https://github.com/google/charts)
 - [hybrid stack management framework from alibaba——flutter boost](https://github.com/alibaba/flutter_boost)
+- [More elegant hybrid stack management framework from hellobike——thrio](https://github.com/hellobike/thrio)
 - [Flutter wrapper around the Agora RTC SDKs for Android and iOS](https://github.com/AgoraIO/Flutter-SDK)
 - [application introduction page——slider](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/slider_screen)
 - [application introduction page——intro_view](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/intro_views)
