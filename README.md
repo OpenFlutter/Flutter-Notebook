@@ -55,7 +55,7 @@ flutter_note_book有许多flutter相关功能demo的集合，它能够帮助您�
 - [Awesome Flutter Packages](https://github.com/leisim/awesome-flutter-packages)
 - [图表库——google charts📈](https://github.com/google/charts)
 - [闲鱼混合栈管理框架——flutter_boost](https://github.com/alibaba/flutter_boost)
-- [更优雅的混合栈方案——thrio](https://github.com/hellobike/thrio)
+- [哈啰出行重磅开源混合栈方案——「thrio」](https://github.com/hellobike/thrio)
 - [Agora RTC SDKs 音视频通话](https://github.com/AgoraIO/Flutter-SDK)
 - [应用介绍页——slider](https://github.com/Vadaski/Vadaski-flutter_note_book/tree/master/mecury_project/example/slider_screen)
 - [应用介绍页——intro_view](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/intro_views)
