@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
+import 'package:provider_example/order_provider.dart';
 import 'counter_model.dart';
 import 'color_model.dart';
 import 'goods_model.dart';
@@ -186,6 +187,60 @@ class GoodsListScreen extends StatelessWidget {
               child: Icon(Icons.add),
               onPressed: () {
                 model.addAll();
+              },
+            );
+          },
+        ),
+      ),
+    );
+  }
+}
+
+
+class OrderListScreen extends StatefulWidget {
+  @override
+  _OrderListScreenState createState() => _OrderListScreenState();
+}
+
+class _OrderListScreenState extends State<OrderListScreen> {
+  OrderProvider _provider = OrderProvider();
+
+  @override
+  Widget build(BuildContext context) {
+    return ChangeNotifierProvider.value(
+      value: _provider,
+      child: Scaffold(
+        body: Selector<OrderProvider, List<Order>>(
+          selector: (context, provider) => provider.orderList,
+          builder: (context, provider, child) {
+            return ListView.builder(
+              itemCount: _provider.listSize,
+              itemBuilder: (context, index) {
+                return Selector<OrderProvider, Order>(
+                  selector: (context, provider) => provider.orderList[index],
+                  builder: (context, data, child) {
+                    print(('No.${index + 1} rebuild'));
+
+                    return ListTile(
+                      title: Text(data.goodsName),
+                      trailing: GestureDetector(
+                        onTap: () => _provider.collect(index),
+                        child: Icon(
+                            data.isCollection ? Icons.star : Icons.star_border),
+                      ),
+                    );
+                  },
+                );
+              },
+            );
+          },
+        ),
+        floatingActionButton: Consumer<OrderProvider>(
+          builder: (context, OrderProvider provider, child) {
+            return FloatingActionButton(
+              child: Icon(Icons.add),
+              onPressed: () {
+                provider.addAll();
               },
             );
           },
