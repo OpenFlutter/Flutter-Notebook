@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       theme: ThemeData.dark(),
       home: DefaultTabController(
-        length: 2,
+        length: 3,
         child: Scaffold(
           appBar: TabBar(tabs: [
             Tab(
@@ -34,11 +34,16 @@ class MyApp extends StatelessWidget {
               text: 'SelectorDemo',
               icon: Icon(Icons.shopping_cart),
             ),
+            Tab(
+              text: 'SelectorUpdateDemo',
+              icon: Icon(Icons.sentiment_satisfied),
+            ),
           ]),
           body: TabBarView(
             children: [
               FirstScreen(),
               GoodsListScreen(),
+              OrderListScreen(),
             ],
           ),
         ),
