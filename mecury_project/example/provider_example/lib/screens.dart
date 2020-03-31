@@ -211,8 +211,8 @@ class _OrderListScreenState extends State<OrderListScreen> {
       value: _provider,
       child: Scaffold(
         body: Selector<OrderProvider, List<Order>>(
-          selector: (context, provider) => provider.orderList,
-          builder: (context, provider, child) {
+          selector: (_, OrderProvider provider) => provider.orderList,
+          builder: (_, List<Order> orderList, __) {
             return ListView.builder(
               itemCount: _provider.listSize,
               itemBuilder: (context, index) {
@@ -236,7 +236,7 @@ class _OrderListScreenState extends State<OrderListScreen> {
           },
         ),
         floatingActionButton: Consumer<OrderProvider>(
-          builder: (context, OrderProvider provider, child) {
+          builder: (_, OrderProvider provider, __) {
             return FloatingActionButton(
               child: Icon(Icons.add),
               onPressed: () {
