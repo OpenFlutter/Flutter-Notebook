@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:provider_example/order_provider.dart';
-import 'counter_model.dart';
+
 import 'color_model.dart';
+import 'counter_model.dart';
 import 'goods_model.dart';
 
 class FirstScreen extends StatelessWidget {
@@ -26,8 +27,7 @@ class FirstScreen extends StatelessWidget {
         ),
       ),
       floatingActionButton: FloatingActionButton(
-        onPressed: () => Navigator.of(context)
-            .push(MaterialPageRoute(builder: (context) => SecondScreen())),
+        onPressed: () => Navigator.of(context).push(MaterialPageRoute(builder: (context) => SecondScreen())),
         child: Icon(Icons.navigate_next),
       ),
     );
@@ -95,8 +95,7 @@ class SecondScreen extends StatelessWidget {
         ),
         SizedBox(height: 20),
         Consumer<CounterModel>(
-          builder: (context, CounterModel counter, child) =>
-              FloatingActionButton(
+          builder: (context, CounterModel counter, child) => FloatingActionButton(
             onPressed: () => counter.increment(),
             child: child,
           ),
@@ -171,8 +170,7 @@ class GoodsListScreen extends StatelessWidget {
                       title: Text(data.goodsName),
                       trailing: GestureDetector(
                         onTap: () => provider.collect(index),
-                        child: Icon(
-                            data.isCollection ? Icons.star : Icons.star_border),
+                        child: Icon(data.isCollection ? Icons.star : Icons.star_border),
                       ),
                     );
                   },
@@ -196,7 +194,6 @@ class GoodsListScreen extends StatelessWidget {
   }
 }
 
-
 class OrderListScreen extends StatefulWidget {
   @override
   _OrderListScreenState createState() => _OrderListScreenState();
@@ -211,22 +208,21 @@ class _OrderListScreenState extends State<OrderListScreen> {
       value: _provider,
       child: Scaffold(
         body: Selector<OrderProvider, List<Order>>(
-          selector: (_, OrderProvider provider) => provider.orderList,
-          builder: (_, List<Order> orderList, __) {
+          selector: (BuildContext _, OrderProvider provider) => provider.orderList,
+          builder: (BuildContext _, List<Order> orderList, Widget __) {
             return ListView.builder(
               itemCount: _provider.listSize,
               itemBuilder: (context, index) {
                 return Selector<OrderProvider, Order>(
-                  selector: (context, provider) => provider.orderList[index],
-                  builder: (context, data, child) {
+                  selector: (BuildContext _, OrderProvider provider) => provider.orderList[index],
+                  builder: (BuildContext _, Order data, Widget __) {
                     print(('No.${index + 1} rebuild'));
 
                     return ListTile(
                       title: Text(data.goodsName),
                       trailing: GestureDetector(
                         onTap: () => _provider.collect(index),
-                        child: Icon(
-                            data.isCollection ? Icons.star : Icons.star_border),
+                        child: Icon(data.isCollection ? Icons.star : Icons.star_border),
                       ),
                     );
                   },
@@ -236,7 +232,7 @@ class _OrderListScreenState extends State<OrderListScreen> {
           },
         ),
         floatingActionButton: Consumer<OrderProvider>(
-          builder: (_, OrderProvider provider, __) {
+          builder: (BuildContext _, OrderProvider provider, Widget __) {
             return FloatingActionButton(
               child: Icon(Icons.add),
               onPressed: () {
