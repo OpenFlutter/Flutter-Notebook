@@ -1,11 +1,14 @@
 import 'package:flutter/material.dart';
-import 'package:bloc_demo/rxdart/blocs/bloc_provider.dart';
+
+import 'blocs/count_bloc.dart';
 
 class UnderPage extends StatelessWidget {
+  final CountBloc bloc;
+
+  UnderPage({@required this.bloc});
+
   @override
   Widget build(BuildContext context) {
-    final bloc = BlocProvider.of(context);
-
     return Scaffold(
       appBar: AppBar(
         title: Text('Under Page'),

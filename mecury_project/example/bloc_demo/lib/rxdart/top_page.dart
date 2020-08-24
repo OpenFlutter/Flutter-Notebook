@@ -1,12 +1,24 @@
+import 'package:bloc_demo/rxdart/blocs/count_bloc_impl.dart';
 import 'package:flutter/material.dart';
-import 'package:bloc_demo/rxdart/blocs/bloc_provider.dart';
+
 import 'under_page.dart';
 
-class TopPage extends StatelessWidget {
+class TopPage extends StatefulWidget {
+  @override
+  _TopPageState createState() => _TopPageState();
+}
+
+class _TopPageState extends State<TopPage> {
+  final bloc = CountBLoCImpl();
+
+  @override
+  void dispose() {
+    bloc?.dispose();
+    super.dispose();
+  }
+
   @override
   Widget build(BuildContext context) {
-    final bloc = BlocProvider.of(context);
-
     return Scaffold(
       appBar: AppBar(
         title: Text('Top Page'),
@@ -24,8 +36,10 @@ class TopPage extends StatelessWidget {
       ),
       floatingActionButton: FloatingActionButton(
           child: Icon(Icons.navigate_next),
-          onPressed: () =>
-              Navigator.of(context).push(MaterialPageRoute(builder: (context) => UnderPage()))),
+          onPressed: () => Navigator.of(context).push(MaterialPageRoute(
+              builder: (context) => UnderPage(
+                    bloc: bloc,
+                  )))),
     );
   }
 }
