@@ -84,6 +84,7 @@ flutter_note_book有许多flutter相关功能demo的集合，它能够帮助您�
 - [使用flutter实现超过100个精美的ui页面](https://github.com/nb312/flutter-ui-nice)
 - [flutter应用收集 MADE BY THE FLUTTER社区](https://itsallwidgets.com/)
 - [HistoryOfEverything ———— flutter live上展示的精美应用现已开源](https://github.com/2d-inc/HistoryOfEverything)
+- [WestlifeUsingFlutter西城男孩的 FlutterDemoApp](https://github.com/renjingkai/WestlifeUsingFlutter)
 
 ### 书
 - [Flutter in Action](https://github.com/flutterchina/flutter-in-action)
